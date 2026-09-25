@@ -1,0 +1,1080 @@
+[
+  {
+    "titulo": "Decida o trabalho antes de pedir a imagem",
+    "entrega": "escrever cinco linhas que orientam uma imagem de produto",
+    "dor": "Você pede uma imagem bonita e recebe algo que não serve para a loja. Falta dizer qual trabalho essa imagem precisa cumprir.",
+    "resumo": [
+      "A ferramenta precisa gerar e permitir salvar a imagem.",
+      "Produto, público, uso, intenção e limites orientam o pedido.",
+      "Uma foto bonita ainda precisa mostrar o produto correto."
+    ],
+    "antes": "Faça uma imagem incrível de uma caneca.",
+    "depois": "Mostre uma caneca terracota com uma alça inteira. Público: compradores de cerâmica. Uso: catálogo quadrado. Intenção: clareza. Fundo creme, sem texto.",
+    "ex1": "Joana, artesã, precisa mostrar a alça da caneca. Ela confere se a ferramenta permite gerar e salvar uma imagem antes de começar.",
+    "ex2": "Mauro, lojista, prepara um catálogo. Ele pede fundo simples e produto inteiro para facilitar a escolha de quem compra.",
+    "confira": "Agora confira as cinco linhas do pedido. Quando gerar a imagem, compare o resultado com elas. Uma alça cortada reprova uma peça que deveria mostrá-la inteira.",
+    "campos": [
+      "Produto: caneca terracota com uma alça",
+      "Público: compradores de cerâmica",
+      "Uso: catálogo quadrado",
+      "Intenção: mostrar a forma com clareza",
+      "Obrigatório: contorno inteiro, fundo creme e uma alça"
+    ],
+    "tarefa": "Preencha a encomenda de uma imagem",
+    "passos": [
+      "Abra as Notas do celular ou pegue papel. Escolha um objeto da sua mesa.",
+      "Escreva produto, público, uso, intenção e três características obrigatórias. Para uma loja: uma caneca inteira, fundo creme e formato quadrado.",
+      "Leia as cinco linhas. Marque qualquer palavra vaga e troque por algo que dá para observar."
+    ],
+    "pronto": "as cinco linhas descrevem uma imagem que você consegue conferir",
+    "molde": "Produto: <objeto>\nPúblico: <quem vai olhar>\nUso e formato: <onde aparece>\nIntenção: <o que precisa ficar claro>\nObrigatório: <três características>",
+    "calma": "Não precisa conhecer nomes de câmera. Comece pelo objeto e diga o que não pode desaparecer.",
+    "q": "O catálogo precisa mostrar a alça, mas a imagem a cortou. O que fazer?",
+    "opcoes": [
+      "Aprovar pelas cores",
+      "Corrigir o enquadramento",
+      "Acrescentar um slogan"
+    ],
+    "correta": 1,
+    "cartoes": [
+      [
+        "Uma foto encanta você, mas esconde a parte que o comprador precisa ver. Qual decisão tomar?",
+        "Revisar a imagem pelo uso previsto. Beleza não substitui a informação do produto."
+      ],
+      [
+        "Que informação você dá antes de escolher a aparência de uma peça?",
+        "Onde a imagem será usada e o que precisa mostrar. Isso orienta as escolhas visuais."
+      ],
+      [
+        "Uma ferramenta mostra vários nomes de modelos. Qual deles você registra?",
+        "O nome e a versão realmente selecionados para aquela geração."
+      ]
+    ],
+    "observacao": "A caneca é o assunto; o papel claro é o fundo; a placa branca devolve luz. São decisões separadas."
+  },
+  {
+    "titulo": "Dê uma função a cada referência",
+    "entrega": "selecionar referências e comparar uma geração por critérios",
+    "dor": "Uma pilha de fotos pode confundir a direção da imagem. Separar o papel de cada referência torna a avaliação mais clara.",
+    "resumo": [
+      "Uma foto pode orientar a forma do produto.",
+      "Outra referência pode orientar só a luz.",
+      "Compare resultados usando os mesmos critérios."
+    ],
+    "antes": "Use todas estas fotos e misture os estilos.",
+    "depois": "Referência A: preserve a forma da caneca. Referência B: use apenas a luz suave. Ignore objetos e cores da referência B.",
+    "ex1": "Joana separa uma foto da alça e uma foto de luz suave. Ela escreve o papel de cada uma para evitar uma caneca misturada.",
+    "ex2": "Mauro avalia duas tentativas pelo contorno, pela luz e pelo espaço livre. A escolha deixa de depender só da primeira impressão.",
+    "confira": "A encomenda deste exercício é uma caneca com alça inteira, luz suave e área livre acima. Compare a imagem com esses três requisitos. Uma referência de luz não deve trocar o produto.",
+    "campos": [
+      "Referência A → forma da caneca",
+      "Referência B → luz suave",
+      "Teste → mesma encomenda e mesmos critérios"
+    ],
+    "tarefa": "Monte uma ficha de duas referências",
+    "passos": [
+      "Escolha duas fotos próprias ou autorizadas. Sem fotos, descreva duas imagens que você poderia produzir.",
+      "Nas Notas ou no papel, escreva o que aproveitar e o que ignorar em cada foto.",
+      "Avalie a caneca da ilustração ou uma imagem sua: a alça está inteira, a luz é suave e há área livre acima? Marque atende ou precisa revisar para cada requisito e justifique uma decisão."
+    ],
+    "pronto": "cada referência tem uma função e uma imagem foi avaliada pelos três critérios",
+    "molde": "Referência A: aproveitar <característica>; ignorar <restante>.\nReferência B: aproveitar <característica>; ignorar <restante>.\nImagem observada: <qual>.\nForma: <atende ou revisar + motivo>.\nLuz: <atende ou revisar + motivo>.\nEspaço livre: <atende ou revisar + motivo>.",
+    "calma": "Se as duas referências disputam a forma do produto, retire uma. Duas instruções claras ajudam mais que dez fotos sem função.",
+    "q": "A foto de luz trouxe uma alça diferente. Qual ajuste ajuda?",
+    "opcoes": [
+      "Definir o papel da referência",
+      "Enviar mais fotos aleatórias",
+      "Mudar todas as cores"
+    ],
+    "correta": 0,
+    "cartoes": [
+      [
+        "Duas referências mostram produtos diferentes. Como evitar uma mistura?",
+        "Declare qual define o produto e qual orienta apenas luz ou composição."
+      ],
+      [
+        "Duas gerações bastam para eleger a melhor ferramenta do mercado?",
+        "Não. O teste informa sobre essa tarefa e essas condições, não sobre todo uso possível."
+      ],
+      [
+        "O fundo ficou ótimo, mas a identidade mudou. O que revisar primeiro?",
+        "A referência usada para a forma e a instrução que associa cada imagem a uma função."
+      ]
+    ],
+    "observacao": "As fotos da mesa mostram forma, ambiente e luz. Uma referência de ambiente não precisa trocar o objeto."
+  },
+  {
+    "titulo": "Guarde a receita e corrija uma coisa",
+    "entrega": "registrar uma tentativa e planejar uma correção localizada",
+    "dor": "Você gostou de uma imagem, mas não lembra como chegou nela. Sem registro, repetir ou corrigir vira outro trabalho.",
+    "resumo": [
+      "Guarde imagem, pedido e ferramenta juntos.",
+      "Escreva o defeito antes de pedir uma correção.",
+      "Mude uma decisão por tentativa."
+    ],
+    "antes": "Melhore tudo e deixe mais profissional.",
+    "depois": "Abra o enquadramento para mostrar a alça inteira. Preserve a caneca terracota, o fundo creme e a luz suave.",
+    "ex1": "Joana guarda a foto aprovada junto do pedido. Assim consegue voltar à referência quando prepara outra peça.",
+    "ex2": "Mauro vê a alça cortada e muda só o enquadramento. Ele guarda as duas versões para observar a diferença.",
+    "confira": "Uma versão nova precisa resolver o defeito escolhido sem criar outro. Se a cor mudou, a correção ainda não está aprovada.",
+    "campos": [
+      "Versão 01 → alça cortada",
+      "Pedido da versão 02 → abrir o enquadramento",
+      "Aprovação → alça inteira e mesma cor"
+    ],
+    "tarefa": "Escreva o registro de uma revisão",
+    "passos": [
+      "Escolha uma imagem sua. Sem imagem, observe as duas fotos nas mãos de Mauro na ilustração: uma não mostra a alça inteira.",
+      "Nas Notas, registre nome da imagem, data, ferramenta conhecida e um problema observável. Marque como desconhecido o que você não sabe.",
+      "Escreva uma correção e duas características que devem permanecer. Guarde a versão original antes de editar."
+    ],
+    "pronto": "o registro permite entender o defeito e a correção proposta",
+    "molde": "Data: <dia>\nArquivo: <nome>\nFerramenta e versão: <nome ou desconhecido>\nPedido usado: <texto>\nDefeito: <um problema>\nAlterar: <uma decisão>\nPreservar: <duas características>",
+    "calma": "Não lembra a configuração anterior? Registre como desconhecida. O objetivo é melhorar o registro a partir de agora.",
+    "q": "A alça melhorou, mas o produto ficou azul. Como avaliar?",
+    "opcoes": [
+      "Aprovar a versão nova",
+      "Reprovar pela cor alterada",
+      "Apagar a versão anterior"
+    ],
+    "correta": 1,
+    "cartoes": [
+      [
+        "Você salvou só o texto do pedido. O que ainda falta para revisar a peça?",
+        "A imagem, as referências e as condições conhecidas de geração."
+      ],
+      [
+        "Por que comparar versões com mudanças pequenas?",
+        "Porque fica mais fácil relacionar a alteração pedida ao resultado observado."
+      ],
+      [
+        "Três tentativas repetiram o mesmo defeito. Qual caminho pode ser melhor?",
+        "Rever a referência ou editar a região problemática, em vez de repetir o mesmo pedido."
+      ]
+    ],
+    "observacao": "Nas fotos que Mauro segura, uma alça não aparece inteira. A comparação ajuda a nomear um defeito específico."
+  },
+  {
+    "titulo": "Escolha o assunto e o tamanho do plano",
+    "entrega": "escrever dois enquadramentos para o mesmo produto",
+    "dor": "Quando o quadro tenta mostrar tudo, o assunto perde força. O tamanho do plano decide o que o público consegue perceber.",
+    "resumo": [
+      "Declare o elemento principal e a ação.",
+      "Plano aberto mostra o ambiente.",
+      "Plano de detalhe mostra uma parte específica."
+    ],
+    "antes": "Uma caneca, flores, livros, café, mãos e uma cozinha inteira.",
+    "depois": "Uma única caneca terracota sobre mesa clara. Plano de detalhe da alça, inteira no quadro. Fundo discreto e sem outros objetos.",
+    "ex1": "Joana escolhe a caneca como assunto. Ela retira da encomenda os objetos que competem com o trabalho da cerâmica.",
+    "ex2": "Mauro prepara duas peças: uma mostra a mesa de café; a outra mostra o acabamento da alça.",
+    "confira": "O plano precisa combinar com a pergunta do comprador. Uma imagem do ambiente não comprova um pequeno detalhe do acabamento.",
+    "campos": [
+      "Ambiente → caneca dentro da cena de café",
+      "Produto → caneca inteira e legível",
+      "Detalhe → alça e acabamento"
+    ],
+    "tarefa": "Escreva dois pedidos de enquadramento",
+    "passos": [
+      "Escolha um objeto da sua mesa e escreva sua característica principal nas Notas.",
+      "Faça um pedido com o objeto inteiro. Faça outro dedicado a um detalhe, mantendo material e cor.",
+      "Leia os pedidos e nomeie o que cada imagem vai ensinar a quem olha."
+    ],
+    "pronto": "os dois pedidos têm funções distintas e preservam o mesmo objeto",
+    "molde": "Assunto: <objeto e cor>.\nVersão A: objeto inteiro, câmera na altura do objeto.\nVersão B: detalhe de <parte>, sem cortar o que preciso mostrar.\nPreservar em ambas: <material e característica>.",
+    "calma": "Se o nome do plano confundir, descreva o recorte em palavras comuns: produto inteiro ou detalhe da alça.",
+    "q": "Você quer mostrar a textura da borda. Qual recorte escolher?",
+    "opcoes": [
+      "A cozinha inteira",
+      "O prédio visto de longe",
+      "Um detalhe da borda"
+    ],
+    "correta": 2,
+    "cartoes": [
+      [
+        "Uma imagem de ambiente esconde o acabamento. O que mudar?",
+        "Aproximar o enquadramento da parte que precisa ser observada."
+      ],
+      [
+        "Como manter unidade ao variar o tamanho do plano?",
+        "Preservar identidade, material e cor; mudar apenas o recorte necessário."
+      ],
+      [
+        "Uma cena tem seis objetos competindo. Qual pergunta simplifica o pedido?",
+        "Qual é o assunto principal que a pessoa precisa reconhecer primeiro?"
+      ]
+    ],
+    "observacao": "A moldura recorta o produto. Observe quanto do objeto e do ambiente permanece dentro dela."
+  },
+  {
+    "titulo": "Descreva a luz e a superfície",
+    "entrega": "distinguir uma decisão de iluminação de uma decisão de material",
+    "dor": "Uma superfície pode parecer plástica quando a intenção era cerâmica. Luz e textura precisam trabalhar juntas.",
+    "resumo": [
+      "Nomeie a fonte de luz.",
+      "Diga se a sombra é suave ou marcada.",
+      "Descreva o material com sinais visíveis."
+    ],
+    "antes": "Luz perfeita, textura linda e qualidade máxima.",
+    "depois": "Caneca de cerâmica fosca com pequenas variações do esmalte. Luz suave de janela lateral. Reflexos discretos, sem brilho de plástico.",
+    "ex1": "Joana quer mostrar o esmalte fosco. Ela evita pedir reflexos intensos que escondem a textura da peça.",
+    "ex2": "Mauro coloca a caneca perto da janela para fotografar. Ele observa a sombra suave e as pequenas variações da superfície fosca.",
+    "confira": "Confira se o acabamento pedido permaneceu. Cerâmica pode ser brilhante, mas uma peça definida como fosca não deve virar uma superfície espelhada.",
+    "campos": [
+      "Fonte → janela lateral",
+      "Sombra → transição suave",
+      "Material → cerâmica fosca com variações discretas"
+    ],
+    "tarefa": "Crie uma ficha de luz e material",
+    "passos": [
+      "Observe um objeto perto de uma janela. No celular, você também pode usar uma foto própria.",
+      "Anote de onde vem a luz, como termina a sombra e quais sinais mostram o material.",
+      "Escreva um pedido com fonte, sombra e dois sinais da superfície. Exemplo: janela lateral, sombra suave, esmalte fosco e pequenas irregularidades."
+    ],
+    "pronto": "o pedido descreve a luz e dois sinais da superfície",
+    "molde": "Mostre <objeto> feito de <material>.\nA superfície apresenta <dois sinais visíveis>.\nIlumine com <fonte>, produzindo sombras <suaves ou marcadas>.\nPreserve <característica do produto>.",
+    "calma": "Não precisa medir a luz. Compare uma sombra de borda dura com uma sombra que desaparece aos poucos.",
+    "q": "A cerâmica parece plástico brilhante. O que revisar?",
+    "opcoes": [
+      "Material e brilho",
+      "Título escolhido para a arte",
+      "Quantidade de legendas"
+    ],
+    "correta": 0,
+    "cartoes": [
+      [
+        "Como reconhecer uma sombra suave sem usar equipamento?",
+        "Observe se a passagem entre luz e sombra ocorre aos poucos."
+      ],
+      [
+        "Qual risco existe em pedir brilho intenso para um produto fosco?",
+        "O resultado pode sugerir outro material e esconder a textura."
+      ],
+      [
+        "Por que informar a origem da iluminação?",
+        "Ela orienta a direção das sombras e a coerência dos reflexos."
+      ]
+    ],
+    "observacao": "Compare a superfície que Joana aponta com os reflexos da outra peça. Acabamento fosco e brilho são sinais observáveis."
+  },
+  {
+    "titulo": "Organize o quadro e a linguagem visual",
+    "entrega": "montar um pedido organizado sem adjetivos vazios",
+    "dor": "Palavras como premium não indicam onde o produto fica. Composição e estilo precisam virar escolhas que você consegue ver.",
+    "resumo": [
+      "Escolha o lugar do assunto no quadro.",
+      "Reserve área livre quando houver texto depois.",
+      "Traduza o estilo em cor, luz e textura."
+    ],
+    "antes": "Imagem premium, incrível, cinematográfica e muito criativa.",
+    "depois": "Caneca inteira na metade inferior do quadro. Área superior livre para título posterior. Fundo creme, paleta terracota e luz suave de janela.",
+    "ex1": "Joana reserva espaço vazio para a futura legenda da campanha. Ela planeja isso antes de gerar a imagem.",
+    "ex2": "Mauro traduz acolhimento em luz suave, fundo creme e poucos objetos. Agora consegue revisar o resultado por escolhas concretas.",
+    "confira": "Cubra a área onde entrará o título. O produto continua claro? Se o texto disputa espaço, reveja a composição.",
+    "campos": [
+      "Assunto → caneca inteira",
+      "Área livre → espaço para título posterior",
+      "Estilo → creme, terracota, luz suave"
+    ],
+    "tarefa": "Reescreva um pedido cheio de adjetivos",
+    "passos": [
+      "Nas Notas, escreva um pedido simples com uma palavra vaga, como elegante.",
+      "Troque essa palavra por decisões de cor, luz e organização dos elementos.",
+      "Confira no pedido o lugar previsto para produto e título. Na ilustração desta aula, cubra a área vazia com o dedo. A caneca deve continuar visível."
+    ],
+    "pronto": "o pedido indica assunto, organização e três escolhas visuais",
+    "molde": "Assunto: <objeto>.\nOrganização: <posição e espaço livre>.\nLuz: <fonte e sombra>.\nPaleta: <cores>.\nMaterial: <aparência observável>.\nEvitar: <distração específica>.",
+    "calma": "Se um nome de estética parecer abstrato, ignore o nome. Escreva as cores, a luz e o tipo de fundo.",
+    "q": "A arte receberá um título longo depois. O que planejar?",
+    "opcoes": [
+      "Mais objetos de fundo",
+      "Área livre para o texto",
+      "Mais palavras no pedido"
+    ],
+    "correta": 1,
+    "cartoes": [
+      [
+        "Como transformar a palavra sofisticado em uma orientação revisável?",
+        "Descrevendo cor, luz, textura e composição, em vez de depender do adjetivo."
+      ],
+      [
+        "Quando o espaço vazio tem uma função prática?",
+        "Quando melhora a leitura do assunto ou reserva espaço para texto posterior."
+      ],
+      [
+        "O estilo parece certo, mas o produto ficou pequeno. O que revisar?",
+        "A organização do quadro e a escala do assunto."
+      ]
+    ],
+    "observacao": "A área clara acima do produto pode receber um título. Cubra esse espaço com o dedo: o produto continua visível."
+  },
+  {
+    "titulo": "Separe formato, identidade e estilo",
+    "entrega": "escolher a proporção da imagem e o papel de duas referências",
+    "dor": "Uma referência bonita pode mudar o produto sem resolver o formato. São decisões diferentes e precisam de instruções próprias.",
+    "resumo": [
+      "Proporção descreve o formato do quadro.",
+      "Identidade é o que faz o objeto continuar reconhecível.",
+      "Estilo orienta a aparência da cena."
+    ],
+    "antes": "Use esta imagem como referência de tudo.",
+    "depois": "Formato quadrado. Preserve a caneca da foto A. Da foto B, aproveite só a paleta e a luz. Não copie o objeto da foto B.",
+    "ex1": "Joana escolhe o formato quadrado para a ficha do produto. Uma imagem com mais pontos não muda sozinha esse formato.",
+    "ex2": "Mauro usa uma foto para a caneca e outra para o ambiente. Ele confere se a alça continua reconhecível nas duas versões.",
+    "confira": "Compare largura e altura separadamente da quantidade de pontos. Depois confira o objeto, antes de julgar a atmosfera.",
+    "campos": [
+      "Formato: 512 × 512 e 1024 × 1024 continuam quadrados (1:1)",
+      "Identidade → forma e alça da foto A",
+      "Estilo → paleta e luz da foto B"
+    ],
+    "tarefa": "Preencha uma ficha de formato e referências",
+    "passos": [
+      "Escolha onde a imagem será usada. Anote o formato exigido: por exemplo quadrado 1:1, horizontal 4:3 ou vertical 9:16.",
+      "Escolha uma referência própria para o objeto. Descreva outra apenas para luz ou cor.",
+      "Escreva o pedido nas Notas. Confira se cada referência tem só o papel escolhido."
+    ],
+    "pronto": "a ficha separa formato, identidade e estilo",
+    "molde": "Destino: <uso>.\nFormato: <quadrado, vertical ou horizontal>.\nReferência de identidade: <foto do produto>.\nReferência de estilo: <foto e característica que interessa>.\nNão alterar: <forma que identifica o produto>.",
+    "calma": "Se a ferramenta não oferece referências separadas, comece apenas com a foto do produto e descreva a luz por escrito.",
+    "q": "Uma imagem quadrada ganhou mais pontos. O que mudou?",
+    "opcoes": [
+      "O formato virou vertical",
+      "O detalhe virou garantido",
+      "A dimensão em pixels"
+    ],
+    "correta": 2,
+    "cartoes": [
+      [
+        "Uma foto vertical tem obrigatoriamente mais definição que uma quadrada?",
+        "Não. Formato e quantidade de pontos são medidas diferentes."
+      ],
+      [
+        "Por que separar referência de produto e referência de atmosfera?",
+        "Para evitar que a aparência da cena altere a identidade do objeto."
+      ],
+      [
+        "A ferramenta aceita só uma referência. Qual você prioriza num catálogo?",
+        "A do produto, porque sua forma precisa continuar reconhecível."
+      ]
+    ],
+    "observacao": "A moldura quadrada e a vertical mostram formatos diferentes. Mais pixels não transformam um quadrado em retângulo."
+  },
+  {
+    "titulo": "Teste os controles que sua ferramenta oferece",
+    "entrega": "planejar um teste de intensidade com uma variável por vez",
+    "dor": "Mexer em todos os controles não revela qual deles ajuda. Um teste pequeno torna a comparação útil.",
+    "resumo": [
+      "Nem toda ferramenta oferece os mesmos controles.",
+      "Leia o que cada ajuste realmente faz.",
+      "Mude um valor e compare pelo mesmo critério."
+    ],
+    "antes": "Aumentar todos os ajustes até o máximo.",
+    "depois": "Manter o mesmo pedido e a mesma referência. Alterar apenas a intensidade de estilo disponível. Comparar forma e textura do produto.",
+    "ex1": "Joana aumenta a liberdade de estilo e observa se a textura ainda parece cerâmica. Ela não muda a luz junto.",
+    "ex2": "Mauro encontra um controle de força de edição. Ele testa um valor menor para preservar mais a imagem original.",
+    "confira": "Mais processamento ou influência do texto não significa qualidade garantida. Registre o efeito observado na sua ferramenta.",
+    "campos": [
+      "Fixo → pedido, referência e formato",
+      "Variável → um controle disponível",
+      "Critério → forma preservada e textura coerente"
+    ],
+    "tarefa": "Desenhe um teste de um controle",
+    "passos": [
+      "Abra a ferramenta que você já usa. Leia a explicação de um controle disponível, sem comprar acesso novo.",
+      "Anote nas Notas o que ficará fixo e qual valor mudará. Se não houver controle, varie uma instrução de estilo no pedido.",
+      "Defina o critério e o limite de duas tentativas. Gere apenas se houver acesso e saldo; caso contrário, deixe o teste planejado."
+    ],
+    "pronto": "o plano tem uma variável, um critério e limite de tentativas",
+    "molde": "Exemplo sem controle na interface:\nA: caneca terracota inteira, fundo creme, luz suave, aparência de fotografia.\nB: caneca terracota inteira, fundo creme, luz suave, aparência de aquarela.\nVariável: apenas a instrução de estilo.\nManter: produto, referência, formato e luz.\nComparar: contorno da alça e textura.\nLimite: duas tentativas. Estado: planejado.\n\nSe houver um controle de estilo:\nNome e função: <leia na ferramenta>.\nValor A: <padrão>. Valor B: <pequena mudança>.\nManter: <pedido, referência e formato>.\nComparar: <característica visível>.",
+    "calma": "Não encontrou esse controle? Isso não impede a aula. Compare duas instruções de estilo mantendo o restante do pedido.",
+    "q": "Qual comparação permite aprender sobre um controle?",
+    "opcoes": [
+      "Um valor muda; o resto fica",
+      "Todos os valores mudam juntos",
+      "Cada teste usa outro produto"
+    ],
+    "correta": 0,
+    "cartoes": [
+      [
+        "Um tutorial mostra um ajuste ausente na sua conta. Como agir?",
+        "Conferir os recursos da própria interface e trabalhar com o que está disponível."
+      ],
+      [
+        "Por que evitar aumentar todos os valores de uma vez?",
+        "Porque o resultado não mostra qual alteração causou a diferença."
+      ],
+      [
+        "Que observação importa mais que um número alto no controle?",
+        "Se o ajuste melhorou o critério escolhido sem destruir características necessárias."
+      ]
+    ],
+    "observacao": "Duas imagens com acabamento diferente ajudam a escolher um critério. A ilustração não mostra controles de uma ferramenta real."
+  },
+  {
+    "titulo": "Guarde uma configuração que você consegue explicar",
+    "entrega": "registrar uma receita testável sem prometer repetição perfeita",
+    "dor": "Copiar um número não guarda uma pessoa nem um estilo. Uma receita útil documenta o conjunto de condições.",
+    "resumo": [
+      "Registre os ajustes realmente disponíveis.",
+      "Um número inicial não fixa a identidade.",
+      "Uma receita precisa de exemplo e critério."
+    ],
+    "antes": "Anotar só o número inicial e esperar a mesma imagem em qualquer ferramenta.",
+    "depois": "Guardar pedido, referências, modelo informado, formato e controles usados. Comparar nova geração pelo contorno e pela luz.",
+    "ex1": "Joana anota o valor inicial de aleatoriedade quando ele aparece. Ela também guarda a referência que define a caneca.",
+    "ex2": "Mauro salva uma receita chamada catálogo suave. Junto dela, mantém uma peça aprovada e os critérios que justificaram a escolha.",
+    "confira": "Uma receita não é uma garantia. Mudanças de modelo ou interface podem mudar o resultado mesmo com os mesmos valores anotados.",
+    "campos": [
+      "Receita → catálogo suave",
+      "Referência → caneca aprovada",
+      "Critério → alça inteira, fundo simples, luz suave"
+    ],
+    "tarefa": "Monte uma receita de geração",
+    "passos": [
+      "Abra as Notas e copie o pedido de uma imagem sua. Sem imagem anterior, use o pedido preenchido na aula 1.",
+      "Acrescente ferramenta, modelo conhecido, proporção e referências. Escreva não disponível nos controles ausentes.",
+      "Adicione três critérios e o nome da imagem aprovada. Se ainda não gerou, marque como receita a testar."
+    ],
+    "pronto": "a receita distingue o que foi testado do que ainda precisa ser testado",
+    "molde": "Nome: catálogo suave. Estado: a testar.\nPedido: caneca terracota inteira, fundo creme, janela lateral suave, sem texto.\nFormato: quadrado 1:1.\nReferência: minha-foto-da-caneca.\nModelo: <nome observado ou desconhecido>.\nControles: <valores disponíveis ou não disponíveis>.\nCritérios: uma alça inteira, fundo simples e sombra suave.",
+    "calma": "A ferramenta não mostra um número inicial? Não invente. Registre os dados que consegue observar.",
+    "q": "A receita ainda não produziu uma imagem. Como nomeá-la?",
+    "opcoes": [
+      "Resultado garantido",
+      "Receita a testar",
+      "Configuração universal"
+    ],
+    "correta": 1,
+    "cartoes": [
+      [
+        "O mesmo número inicial preserva um rosto entre modelos diferentes?",
+        "Não. Ele não substitui uma referência de identidade."
+      ],
+      [
+        "O que torna uma configuração salva útil para outra pessoa?",
+        "Instruções, referências, condições conhecidas e critérios claros de avaliação."
+      ],
+      [
+        "Como documentar um controle ausente?",
+        "Registrar que não estava disponível naquela interface."
+      ]
+    ],
+    "observacao": "Foto aprovada e amostras de cor ficam juntas. A referência faz parte da receita, junto do texto do pedido."
+  },
+  {
+    "titulo": "Aprove a imagem que vai orientar a série",
+    "entrega": "definir características fixas e escolher uma imagem-base",
+    "dor": "Uma série perde unidade quando cada cena inventa outro produto. A referência principal precisa ser aprovada antes da variação.",
+    "resumo": [
+      "Liste as características que devem permanecer.",
+      "Escolha uma referência com forma visível.",
+      "Reprove a base se ela já contém defeitos."
+    ],
+    "antes": "Começar seis cenas a partir de uma caneca cuja alça está escondida.",
+    "depois": "Usar uma imagem-base com a caneca inteira. Preservar terracota, uma alça oval e borda íntegra em todas as cenas.",
+    "ex1": "Joana define cor, alça e borda como características fixas. A decoração do ambiente pode mudar, mas o produto não.",
+    "ex2": "Mauro escolhe a foto em que consegue conferir toda a caneca. Ele descarta uma versão bonita que esconde a alça.",
+    "confira": "Uma imagem-base com defeito tende a orientar as cenas para esse defeito. Corrija ou troque a base antes de ampliar a série.",
+    "campos": [
+      "Fixo → terracota, uma alça oval, borda inteira",
+      "Variável → ambiente e enquadramento",
+      "Base aprovada → produto legível"
+    ],
+    "tarefa": "Escolha sua referência principal",
+    "passos": [
+      "Escolha uma foto própria de produto. Se não tiver, fotografe um objeto sobre fundo simples.",
+      "Anote três características fixas nas Notas. Observe se todas aparecem claramente na foto.",
+      "Marque aprovada ou precisa de outra foto. Justifique pelo que está visível, não pela beleza geral."
+    ],
+    "pronto": "a base permite conferir as três características fixas",
+    "molde": "Produto: <nome>.\nCaracterísticas fixas: <1>, <2>, <3>.\nPode variar: <ambiente ou enquadramento>.\nBase escolhida: <arquivo>.\nDecisão e motivo: <aprovada ou revisar>.",
+    "calma": "Se nenhuma foto mostra tudo, faça uma foto simples. Uma referência clara ajuda mais que uma cena elaborada e confusa.",
+    "q": "A referência esconde a borda que precisa ser preservada. O que fazer?",
+    "opcoes": [
+      "Gerar mais dez cenas",
+      "Aprovar pela atmosfera",
+      "Escolher uma base legível"
+    ],
+    "correta": 2,
+    "cartoes": [
+      [
+        "O que pode variar sem perder a identidade do produto?",
+        "Ambiente e enquadramento, desde que as características fixas permaneçam."
+      ],
+      [
+        "Por que revisar a referência antes de produzir uma campanha inteira?",
+        "Porque erros da base podem se espalhar por todas as cenas."
+      ],
+      [
+        "Qual foto ajuda mais: dramática ou legível?",
+        "Para definir identidade, a que permite observar com clareza as características necessárias."
+      ]
+    ],
+    "observacao": "Compare o objeto e a referência. Forma, cor e alça precisam ser visíveis para orientar a série."
+  },
+  {
+    "titulo": "Planeje cenas diferentes sem trocar o produto",
+    "entrega": "organizar seis cenas com funções e referências claras",
+    "dor": "Repetir o mesmo quadro não conta uma história. Variar sem plano também pode mudar o produto.",
+    "resumo": [
+      "Cada cena precisa de uma função.",
+      "A referência do produto continua fixa.",
+      "Referências de ambiente têm outro papel."
+    ],
+    "antes": "Seis fotos bonitas, cada uma com uma caneca diferente.",
+    "depois": "Mesma caneca em seis funções: ambiente, escolha, uso, detalhe, conjunto e encerramento. Cada referência informa apenas sua parte.",
+    "ex1": "Joana separa a foto do produto da foto do ateliê. Assim o ambiente novo não redefine a forma da caneca.",
+    "ex2": "Mauro planeja uma sequência que responde perguntas do comprador. Um detalhe mostra acabamento; uma cena de uso mostra escala.",
+    "confira": "Escreva a função antes de gerar. Se duas cenas comunicam exatamente a mesma coisa, substitua uma por informação que falta.",
+    "campos": [
+      "Ambiente: caneca inteira no ateliê; mostra onde a peça nasce",
+      "Escolha: mão entre duas peças; mostra a decisão do comprador",
+      "Uso: mão segurando a alça; permite observar a escala",
+      "Detalhe: aproximação do esmalte; mostra o acabamento",
+      "Conjunto: caneca com pires na mesa; mostra o que acompanha",
+      "Encerramento: caneca inteira com espaço acima; recebe a mensagem depois"
+    ],
+    "tarefa": "Planeje seis cenas no papel",
+    "passos": [
+      "Escolha um produto próprio ou use a caneca fictícia do curso. Abra as Notas e crie seis linhas.",
+      "Dê uma função a cada linha: ambiente, escolha, uso, detalhe, conjunto e encerramento.",
+      "Em cada linha, anote enquadramento e referência necessária. Marque as três características que devem permanecer em todas."
+    ],
+    "pronto": "as seis cenas têm função distinta e identidade comum",
+    "molde": "Cena: <número>.\nFunção: <o que ensina>.\nEnquadramento: <recorte>.\nReferência do produto: <arquivo>.\nReferência adicional e função: <arquivo e papel>.\nPreservar: <características>.",
+    "calma": "Você não precisa gerar as seis cenas agora. O objetivo é descobrir se o conjunto faz sentido antes de gastar tentativas.",
+    "q": "Duas cenas mostram o mesmo detalhe sem acrescentar informação. O que revisar?",
+    "opcoes": [
+      "A função de uma das cenas",
+      "A cor de todo o produto",
+      "O nome de todas as imagens"
+    ],
+    "correta": 0,
+    "cartoes": [
+      [
+        "Como usar uma foto de ambiente sem trocar a identidade do produto?",
+        "Associando explicitamente cada referência ao seu papel."
+      ],
+      [
+        "Por que dar uma função a cada quadro antes de gerar?",
+        "Para evitar repetição e verificar se a sequência comunica o que falta."
+      ],
+      [
+        "Qual cena ajuda a observar a escala do objeto?",
+        "Uma cena de uso com uma relação reconhecível, como a mão segurando a caneca."
+      ]
+    ],
+    "observacao": "Cada quadro tem uma função: ambiente, escolha, uso, detalhe, conjunto e encerramento. Planejar não equivale a gerar as peças finais."
+  },
+  {
+    "titulo": "Veja o conjunto e corrija a peça que destoa",
+    "entrega": "avaliar uma pequena série e indicar uma correção específica",
+    "dor": "Uma imagem pode funcionar sozinha e quebrar a campanha. Comparar miniaturas torna essas diferenças mais fáceis de perceber.",
+    "resumo": [
+      "Veja as imagens juntas.",
+      "Procure diferenças de identidade e linguagem.",
+      "Corrija a peça responsável pelo problema."
+    ],
+    "antes": "Recomeçar a série inteira porque uma camisa mudou de cor.",
+    "depois": "Manter as cenas aprovadas. Na cena problemática, corrigir somente a camisa e conferir novamente o conjunto.",
+    "ex1": "Joana organiza três miniaturas numa folha. Ela percebe que uma caneca tem duas alças, apesar da luz parecida.",
+    "ex2": "Mauro mantém as duas peças corretas e revisa a terceira. Ele evita perder decisões que já funcionavam.",
+    "confira": "Observe primeiro o produto, depois luz e paleta. Diferenças intencionais de enquadramento não são automaticamente erros.",
+    "campos": [
+      "Imagem A → uma alça, terracota, aprovada",
+      "Imagem B → duas alças, revisar",
+      "Imagem C → uma alça, terracota, aprovada"
+    ],
+    "tarefa": "Faça uma revisão de conjunto",
+    "passos": [
+      "Abra três imagens próprias juntas na galeria ou coloque três fotos numa folha. Sem série pronta, use três fotos de um mesmo objeto.",
+      "Anote diferenças intencionais e problemas de identidade. Se suas três fotos estiverem corretas, registre isso e observe a foto da caneca azul na ilustração da aula.",
+      "Escreva uma correção para a peça problemática. Sem defeitos na sua série, use o caso da caneca azul e peça para restaurar terracota, mantendo a forma."
+    ],
+    "pronto": "uma diferença problemática está identificada e tem uma correção definida",
+    "molde": "Peça problemática: <nome>.\nDiferença observada: <evidência>.\nÉ intencional? <sim ou não>.\nCorrigir: <uma parte>.\nPreservar: <restante da imagem>.",
+    "calma": "Se todas parecem diferentes, escolha primeiro uma única característica: a quantidade de alças. Depois passe às cores.",
+    "q": "Uma cena tem duas alças; as outras estão corretas. Qual ação é mais precisa?",
+    "opcoes": [
+      "Trocar o estilo da série",
+      "Corrigir a cena defeituosa",
+      "Refazer todas as imagens"
+    ],
+    "correta": 1,
+    "cartoes": [
+      [
+        "Por que olhar miniaturas juntas?",
+        "Para perceber unidade de produto, escala, luz e paleta no conjunto."
+      ],
+      [
+        "Todo enquadramento diferente é uma falha de consistência?",
+        "Não. A variação pode ser planejada; o produto precisa continuar reconhecível."
+      ],
+      [
+        "O que deve acompanhar um pedido de correção localizada?",
+        "A lista do que precisa permanecer para proteger as partes já aprovadas."
+      ]
+    ],
+    "observacao": "A peça azul destoa das duas terracota. Aqui a cor é o problema; variar o enquadramento seria uma escolha possível."
+  },
+  {
+    "titulo": "Escolha o alcance da edição",
+    "entrega": "distinguir correção da imagem inteira e correção de uma região",
+    "dor": "Um defeito pequeno não exige alterar toda a cena. Delimitar a área ajuda a preservar o que já funciona.",
+    "resumo": [
+      "Edição global afeta a imagem inteira.",
+      "Edição local altera uma região.",
+      "A marcação precisa cobrir a área relevante."
+    ],
+    "antes": "Mudar toda a imagem para retirar uma pequena mancha do fundo.",
+    "depois": "Marcar apenas a mancha e uma pequena borda ao redor. Reconstruir o fundo creme, preservando caneca, sombra e enquadramento.",
+    "ex1": "Joana escolhe uma correção global quando a cena toda está escura. Para uma mancha isolada, ela prefere uma correção local.",
+    "ex2": "Mauro marca a região do fundo que precisa mudar. Ele confere se a seleção encostou na borda da caneca.",
+    "confira": "Depois da edição, olhe a borda da região corrigida. Uma mancha pode desaparecer e deixar uma emenda visível.",
+    "campos": [
+      "Problema em toda a cena → ajuste global",
+      "Problema numa região → ajuste local",
+      "Conferência → emenda, contorno e sombra"
+    ],
+    "tarefa": "Planeje uma edição localizada",
+    "passos": [
+      "Escolha uma imagem sua e localize um defeito pequeno. Sem imagem, use o caso da mancha no fundo descrito nesta aula.",
+      "Anote ou desenhe no papel a região que pode mudar. Declare as áreas que precisam permanecer.",
+      "Escreva o pedido de edição e três pontos para conferir depois. Use uma cópia caso execute a edição."
+    ],
+    "pronto": "o alcance da mudança e as regiões preservadas estão claros",
+    "molde": "Corrigir apenas: <região>.\nReconstruir como: <aparência>.\nPreservar: <produto, sombra e quadro>.\nDepois conferir: <borda, textura e contato>.",
+    "calma": "Sua ferramenta não deixa marcar uma região? Planeje a mudança por escrito e use um editor que você já conheça quando precisar executar.",
+    "q": "Só uma mancha do fundo está errada. Qual alcance escolher?",
+    "opcoes": [
+      "A cena inteira sem restrições",
+      "Todas as imagens da campanha",
+      "A região da mancha"
+    ],
+    "correta": 2,
+    "cartoes": [
+      [
+        "Quando um ajuste global faz sentido?",
+        "Quando o problema afeta a imagem inteira, como uma exposição geral inadequada."
+      ],
+      [
+        "O que observar na borda de uma região reconstruída?",
+        "Emendas, diferenças de textura e cortes indevidos no objeto."
+      ],
+      [
+        "Por que preservar a sombra ao corrigir o fundo?",
+        "Porque ela ajuda a manter o contato e a coerência do objeto com a superfície."
+      ]
+    ],
+    "observacao": "A pequena marcação cobre a mancha do fundo. O restante do objeto deve ser protegido durante a correção.",
+    "pedido_complementar": "Edite uma cópia da imagem. Remova apenas a mancha indicada no fundo e reconstrua o fundo creme nessa região. Preserve caneca, contorno, cor, enquadramento e sombra. Não amplie o quadro.",
+    "conferencia_complementar": "Compare a região corrigida e sua borda. Confira se a mancha sumiu, se há emenda e se o produto e a sombra permaneceram iguais."
+  },
+  {
+    "titulo": "Amplie o quadro e confira a integração",
+    "entrega": "planejar uma expansão de imagem sem perder contato e perspectiva",
+    "dor": "Criar espaço ao redor do produto pode resolver o formato. Mas o fundo novo precisa combinar com a cena existente.",
+    "resumo": [
+      "Expandir cria conteúdo fora da área original.",
+      "Preserve escala e perspectiva do objeto.",
+      "Confira luz, sombra e contato com a mesa."
+    ],
+    "antes": "Esticar a caneca para preencher uma peça horizontal.",
+    "depois": "Preservar a caneca e ampliar o fundo creme nas laterais. Manter a mesa, a perspectiva e a direção da sombra existente.",
+    "ex1": "Joana precisa de uma faixa horizontal. Ela amplia o ambiente em vez de deformar a caneca.",
+    "ex2": "Mauro vê que a peça parece flutuar após uma montagem. Ele pede uma sombra de contato coerente com a mesa.",
+    "confira": "Expansão inventa conteúdo novo. Não trate detalhes criados fora do quadro como documentação do local original.",
+    "campos": [
+      "Objeto → mesma escala e contorno",
+      "Fundo novo → continuidade da mesa",
+      "Contato → sombra junto da base"
+    ],
+    "tarefa": "Escreva uma expansão verificável",
+    "passos": [
+      "Escolha uma foto própria ou imagine a caneca num quadro quadrado. Defina um destino horizontal.",
+      "Nas Notas, indique onde precisa de espaço e o que deve continuar intacto.",
+      "Liste quatro verificações: escala, perspectiva, luz e contato. Se editar, compare a cópia com o original."
+    ],
+    "pronto": "a expansão prevista não exige deformar o produto",
+    "molde": "Amplie o fundo para <formato>.\nMantenha <objeto> com a mesma forma e escala.\nContinue <mesa e fundo>.\nPreserve a direção da luz e a sombra de contato.\nNão acrescente outros objetos.",
+    "calma": "Se não sabe avaliar perspectiva, observe a borda da mesa. Ela deve continuar numa direção coerente na parte nova.",
+    "q": "A caneca parece suspensa depois da montagem. O que conferir?",
+    "opcoes": [
+      "Contato e sombra na base",
+      "Nome escolhido para a peça",
+      "Número de pastas do projeto"
+    ],
+    "correta": 0,
+    "cartoes": [
+      [
+        "Por que não esticar o objeto para mudar o formato da imagem?",
+        "Porque isso altera suas proporções. É melhor recortar ou expandir o ambiente conforme o uso."
+      ],
+      [
+        "O fundo criado além da foto comprova como era o local?",
+        "Não. É conteúdo inventado pela expansão."
+      ],
+      [
+        "Quais pistas ajudam um objeto inserido a pertencer à cena?",
+        "Escala, perspectiva, luz e sombra de contato coerentes."
+      ]
+    ],
+    "observacao": "O fundo cresce ao redor do quadro original. O objeto não precisa ser esticado para caber num formato horizontal."
+  },
+  {
+    "titulo": "Mantenha o texto editável e registre a mudança",
+    "entrega": "planejar texto em camada separada e registrar o plano de uma comparação",
+    "dor": "Uma palavra errada pode inutilizar uma arte pronta. Separar texto da imagem facilita a correção e a reutilização.",
+    "resumo": [
+      "Gere a cena com espaço para o texto.",
+      "Escreva títulos num editor que permita corrigir.",
+      "Planeje uma comparação com recorte semelhante."
+    ],
+    "antes": "Regerar o produto inteiro para corrigir uma letra do título.",
+    "depois": "Guardar a imagem sem texto. Adicionar o título numa camada editável e corrigir apenas a palavra necessária.",
+    "ex1": "Joana reserva espaço no quadro e escreve o título depois. Assim troca a mensagem sem alterar o produto.",
+    "ex2": "Mauro apresenta o antes e depois com o mesmo tamanho. A diferença mostra a correção real, sem favorecer uma versão pelo recorte.",
+    "confira": "Leia o texto no tamanho em que será publicado. Conferir apenas a imagem ampliada pode esconder um problema de leitura no celular.",
+    "campos": [
+      "Imagem → produto e espaço livre",
+      "Texto → elemento separado e corrigível",
+      "Registro → problema, intervenção e resultado"
+    ],
+    "tarefa": "Prepare o plano de texto e revisão",
+    "passos": [
+      "Escolha uma imagem própria e escreva um título curto. Pode usar papel ou as Notas do celular.",
+      "Indique onde haverá área livre e qual editor conhecido poderá manter o texto separado. Se não conhece um, escreva editor a escolher: esta prática é um plano.",
+      "Escreva como mostrará o antes e depois: mesmo recorte, mesmo tamanho e uma frase sobre a mudança."
+    ],
+    "pronto": "texto e imagem têm papéis separados e a comparação tem um critério",
+    "molde": "Imagem-base: <arquivo sem texto>.\nTítulo: <texto exato>.\nÁrea livre: <descrição>.\nAntes: <problema>. Depois: <mudança>.\nComparação: mesmo recorte e tamanho.",
+    "calma": "Não usa um editor com camadas? Guarde sempre a versão sem texto. Isso permite refazer a legenda sem reconstruir a imagem.",
+    "q": "O título tem um erro de grafia. Qual organização facilita corrigir?",
+    "opcoes": [
+      "Texto fundido sem original",
+      "Texto em camada separada",
+      "Imagem salva só em miniatura"
+    ],
+    "correta": 1,
+    "cartoes": [
+      [
+        "Qual versão guardar antes de acrescentar uma legenda?",
+        "A imagem limpa, sem texto, para permitir novas composições."
+      ],
+      [
+        "Como evitar um antes e depois enganoso?",
+        "Comparando versões no mesmo tamanho e recorte, com a mudança declarada."
+      ],
+      [
+        "Onde conferir se um título pode ser lido?",
+        "No tamanho e no dispositivo previstos para o uso final."
+      ]
+    ],
+    "observacao": "A folha transparente representa uma camada separada. A imagem limpa continua guardada para outra composição."
+  },
+  {
+    "titulo": "Ampliação não recupera uma verdade perdida",
+    "entrega": "distinguir aumento de tamanho de detalhe inventado",
+    "dor": "Uma imagem ampliada pode parecer mais nítida e ainda inventar textura. Aparência convincente não comprova fidelidade ao objeto.",
+    "resumo": [
+      "Dimensões precisam servir ao destino.",
+      "Aumentar a imagem não garante detalhe verdadeiro.",
+      "Compare a versão ampliada com a referência."
+    ],
+    "antes": "Ampliar uma foto borrada e assumir que a nova inscrição existia no objeto.",
+    "depois": "Usar a ampliação para apresentação e conferir inscrições, textura e contorno com a foto original. Marcar como reconstruído o que foi inventado.",
+    "ex1": "Joana percebe uma nova rachadura após ampliar a foto. Ela volta à referência antes de mostrar aquilo como detalhe da peça.",
+    "ex2": "Mauro escolhe as dimensões necessárias para o catálogo. Ele evita gerar arquivos enormes sem necessidade de uso.",
+    "confira": "Para documentos ou evidências, não aceite detalhes reconstruídos como informação recuperada. Para criação visual, decida se a mudança é aceitável.",
+    "campos": [
+      "Tamanho → dimensões necessárias ao destino",
+      "Aparência → pode ganhar nitidez",
+      "Fidelidade → precisa de referência e conferência"
+    ],
+    "tarefa": "Defina um critério para ampliar",
+    "passos": [
+      "Escolha uma imagem e anote seu destino. Na galeria, procure o símbolo i ou as opções Informações e Detalhes. Veja largura e altura.",
+      "Escreva dois detalhes que não podem ser inventados, como uma inscrição e a textura do produto.",
+      "Registre como você comparará a ampliação com o original. Sem ferramenta de ampliação, faça somente esse plano."
+    ],
+    "pronto": "o plano separa tamanho desejado e fidelidade necessária",
+    "molde": "Destino: <uso>.\nDimensões atuais: <valor observado ou desconhecido>.\nDimensões necessárias: <exigência conhecida ou a confirmar>.\nNão inventar: <detalhes>.\nReferência para conferir: <arquivo>.",
+    "calma": "Não conhece a dimensão ideal? Procure primeiro a exigência do lugar onde a imagem será usada. Não escolha pelo maior número.",
+    "q": "A ampliação criou uma inscrição antes ilegível. Como tratá-la?",
+    "opcoes": [
+      "Como prova do texto original",
+      "Como garantia de recuperação",
+      "Como detalhe a verificar"
+    ],
+    "correta": 2,
+    "cartoes": [
+      [
+        "Mais pontos na imagem garantem informação original recuperada?",
+        "Não. Parte do detalhe pode ser estimada ou criada."
+      ],
+      [
+        "O que define um tamanho de entrega adequado?",
+        "O destino e suas exigências, não apenas o maior tamanho disponível."
+      ],
+      [
+        "Como avaliar uma textura nova após ampliar?",
+        "Comparando com uma referência confiável e decidindo se a alteração é aceitável para o uso."
+      ]
+    ],
+    "observacao": "A lupa ajuda a comparar a textura da referência. Uma ampliação pode criar detalhes que não existiam na imagem original."
+  },
+  {
+    "titulo": "Corrija a forma e inspecione em três escalas",
+    "entrega": "revisar estrutura, uso real e pequenos defeitos numa imagem",
+    "dor": "Ampliar um erro pode apenas deixá-lo mais nítido. Cada tamanho de visualização responde a uma pergunta diferente.",
+    "resumo": [
+      "Corrija contorno e quantidade de partes primeiro.",
+      "Veja a imagem em miniatura e no tamanho de uso.",
+      "Amplie para procurar emendas e artefatos."
+    ],
+    "antes": "Ampliar uma caneca com duas alças e esperar que a estrutura se corrija.",
+    "depois": "Corrigir a alça extra antes. Depois conferir hierarquia na miniatura, leitura no tamanho de uso e bordas na ampliação.",
+    "ex1": "Joana reprova a alça extra antes de melhorar a definição. O problema é a forma, não a quantidade de pontos.",
+    "ex2": "Mauro olha a peça no celular e depois amplia. A primeira visão mostra leitura; a segunda mostra uma emenda no fundo.",
+    "confira": "Uma peça pode passar no detalhe e falhar como miniatura. A aprovação precisa considerar o tamanho em que o público verá a imagem.",
+    "campos": [
+      "Miniatura → assunto reconhecível",
+      "Tamanho de uso → texto e produto legíveis",
+      "Ampliação → bordas, emendas e defeitos"
+    ],
+    "tarefa": "Faça três inspeções da mesma imagem",
+    "passos": [
+      "Abra uma imagem própria na galeria. Observe primeiro a miniatura sem ampliar.",
+      "Abra no tamanho normal de uso e depois use o gesto de pinça para observar uma borda.",
+      "Anote uma conclusão por escala nas Notas. Priorize problemas de forma antes de pensar em aumentar a imagem."
+    ],
+    "pronto": "você registrou uma observação em cada escala",
+    "molde": "Miniatura: <o que reconheço>.\nUso real: <o que consigo ler>.\nAmpliação: <defeito ou borda conferida>.\nCorrigir primeiro: <problema estrutural, se houver>.",
+    "calma": "Não procure defeitos infinitamente. Escolha uma borda importante e uma área de textura para a inspeção ampliada.",
+    "q": "A miniatura não permite reconhecer o produto. O que rever primeiro?",
+    "opcoes": [
+      "Composição e escala do assunto",
+      "Só os pequenos pontos do fundo",
+      "A extensão do nome do arquivo"
+    ],
+    "correta": 0,
+    "cartoes": [
+      [
+        "Qual problema deve ser resolvido antes de ampliar uma caneca?",
+        "Contorno, proporção e quantidade correta de partes."
+      ],
+      [
+        "Que pergunta a miniatura responde melhor?",
+        "Se o assunto principal é reconhecível e tem prioridade visual."
+      ],
+      [
+        "Por que observar a imagem no tamanho de publicação?",
+        "Porque esse é o tamanho em que legibilidade e detalhes precisam funcionar para o público."
+      ]
+    ],
+    "observacao": "Miniatura, imagem normal e detalhe ampliado respondem a perguntas diferentes sobre a mesma peça."
+  },
+  {
+    "titulo": "Exporte uma cópia e aprove pelo uso",
+    "entrega": "preparar uma entrega com formato e qualidade conferidos",
+    "dor": "Um arquivo bonito no editor pode sair pesado ou perder leitura depois de salvo. A revisão precisa incluir a cópia final.",
+    "resumo": [
+      "Guarde o original e exporte uma cópia.",
+      "Reduza o peso sem destruir o que importa.",
+      "Abra o arquivo final para conferir."
+    ],
+    "antes": "Enviar a primeira exportação sem abrir o arquivo.",
+    "depois": "Salvar uma cópia para o destino. Abrir novamente, conferir dimensões, texto e bordas. Manter o original separado.",
+    "ex1": "Joana guarda a imagem de trabalho e cria uma cópia para a loja. Assim pode refazer a entrega sem perder a base.",
+    "ex2": "Mauro vê manchas após uma compressão forte. Ele compara o arquivo final com a versão anterior antes de publicar.",
+    "confira": "Aprovar significa atender à encomenda. Confira formato, produto, luz e leitura no arquivo realmente entregue.",
+    "campos": [
+      "Original → preservado para editar",
+      "Cópia final → adequada ao destino",
+      "Conferência → abrir, observar e só então entregar"
+    ],
+    "tarefa": "Confira uma cópia de entrega",
+    "passos": [
+      "Abra uma foto própria na galeria. Use Editar e depois Salvar cópia, se disponível. Se só houver Salvar, duplique a foto antes para proteger a original.",
+      "Abra a cópia. Procure i, Informações ou Detalhes para ver dimensões e formato. Se não souber a exigência do destino, marque como a confirmar.",
+      "Observe produto, texto e bordas no tamanho de uso. Registre aprovada ou revisar com uma razão concreta."
+    ],
+    "pronto": "a cópia final foi aberta e avaliada pelo uso previsto",
+    "molde": "Arquivo final: <nome>.\nDestino: <uso>.\nFormato e dimensões: <valores observados>.\nProduto e texto: <conferência>.\nDecisão: <aprovado ou revisar>.\nMotivo: <evidência>.",
+    "calma": "Se o aplicativo só oferece uma opção de salvamento, guarde essa cópia e confira suas informações antes de procurar outro editor.",
+    "q": "O arquivo ficou menor, mas o título perdeu leitura. Qual decisão tomar?",
+    "opcoes": [
+      "Publicar porque ficou leve",
+      "Revisar a exportação",
+      "Apagar o original de trabalho"
+    ],
+    "correta": 1,
+    "cartoes": [
+      [
+        "Por que abrir o arquivo depois de exportar?",
+        "Porque a cópia pode apresentar mudanças de qualidade ou dimensões."
+      ],
+      [
+        "O menor arquivo é sempre a melhor entrega?",
+        "Não. Ele precisa manter a qualidade necessária para o uso."
+      ],
+      [
+        "Qual versão permite corrigir uma entrega posteriormente?",
+        "O original preservado, junto do registro e dos materiais usados."
+      ]
+    ],
+    "observacao": "A imagem é conferida no celular, no tamanho de uso. A cópia original permanece separada para futuras edições."
+  },
+  {
+    "titulo": "Defina três peças e o que muda entre elas",
+    "entrega": "planejar um projeto de três imagens com limites claros",
+    "dor": "Sem escopo, o projeto cresce a cada tentativa. Três peças com funções claras já permitem demonstrar um processo completo.",
+    "resumo": [
+      "Declare quais arquivos serão entregues.",
+      "Mantenha o produto e a paleta.",
+      "Varie o enquadramento conforme a função."
+    ],
+    "antes": "Gerar até aparecer uma campanha completa, sem limite de peças.",
+    "depois": "Entregar três imagens: produto inteiro, detalhe e uso. Preservar caneca terracota e fundo coerente. Incluir uma revisão documentada.",
+    "ex1": "Joana escolhe três imagens para apresentar a peça. Ela define o fim do projeto antes de começar novas tentativas.",
+    "ex2": "Mauro monta uma matriz simples: produto e paleta ficam fixos; recorte e função variam em cada peça.",
+    "confira": "Uma peça extra só entra se resolver uma necessidade. Não aumente o projeto para esconder uma imagem que ainda precisa de correção.",
+    "campos": [
+      "Peça 1 → produto inteiro, identificação",
+      "Peça 2 → detalhe, acabamento",
+      "Peça 3 → uso, relação com o cotidiano"
+    ],
+    "tarefa": "Escreva o escopo do projeto final",
+    "passos": [
+      "Use a ficha que escreveu na prática da aula 1. Se pulou, escolha agora um produto próprio ou a caneca Aurora. Anote produto, público, uso, intenção e limites.",
+      "Crie três linhas nas Notas com função, enquadramento e características fixas.",
+      "Defina o limite de tentativas e os arquivos de entrega. Se você ainda não pode gerar, deixe o plano pronto para execução."
+    ],
+    "pronto": "as três peças estão descritas e o limite do projeto está definido",
+    "molde": "Produto: <nome>.\nEntregas: três imagens e uma revisão documentada.\nPeça 1: <função e quadro>.\nPeça 2: <função e quadro>.\nPeça 3: <função e quadro>.\nFixos: <identidade e paleta>.\nLimite de tentativas: <número possível>.",
+    "calma": "Se três peças parecerem muito, planeje todas e execute uma por sessão. O plano continua pequeno e verificável.",
+    "q": "Qual variação preserva a unidade planejada?",
+    "opcoes": [
+      "Trocar o produto em cada cena",
+      "Mudar todas as cores sem motivo",
+      "Variar o recorte do mesmo objeto"
+    ],
+    "correta": 2,
+    "cartoes": [
+      [
+        "O que indica que o projeto tem um fim claro?",
+        "Entregas, critérios e limite de tentativas definidos antes da produção."
+      ],
+      [
+        "Como escolher uma variação útil entre três peças?",
+        "Associando cada enquadramento a uma função diferente."
+      ],
+      [
+        "Uma quarta peça resolve a reprovação da terceira?",
+        "Não. Primeiro corrija a peça necessária ou reveja o escopo com uma justificativa."
+      ]
+    ],
+    "observacao": "Três peças com funções diferentes: produto inteiro, detalhe e uso. As características principais devem permanecer."
+  },
+  {
+    "titulo": "Escolha com critérios e mostre uma revisão",
+    "entrega": "justificar a seleção de uma imagem e sua melhoria",
+    "dor": "Dizer que uma peça ficou melhor não mostra o que você aprendeu. Uma escolha explicada torna o processo mais confiável.",
+    "resumo": [
+      "Use os mesmos critérios em todas as peças.",
+      "Dê uma evidência para cada avaliação.",
+      "Mostre uma mudança que resolveu um problema."
+    ],
+    "antes": "Escolher a imagem preferida sem explicar por quê.",
+    "depois": "Avaliar forma, luz, composição e coerência. Registrar: alça inteira, sombra compatível e área livre para título. Documentar a correção do recorte.",
+    "ex1": "Joana dá uma nota baixa para a forma quando aparece uma alça extra. Ela escreve o motivo junto da avaliação.",
+    "ex2": "Mauro mostra uma correção de enquadramento com duas versões do mesmo tamanho. A comparação revela o problema resolvido.",
+    "confira": "A nota é um resumo da evidência. Uma pontuação alta sem observação concreta não explica a aprovação.",
+    "campos": [
+      "Forma → uma alça e borda inteira",
+      "Composição → assunto legível e espaço previsto",
+      "Revisão → recorte corrigido sem trocar o produto"
+    ],
+    "tarefa": "Faça e documente uma correção de enquadramento",
+    "passos": [
+      "Escolha uma foto própria com área sobrando. Abra na galeria, duplique ou escolha Salvar cópia antes de editar. Guarde o original.",
+      "Em Editar, procure Cortar ou Recortar. Reduza apenas o espaço que distrai, sem cortar partes necessárias do objeto. Salve uma nova cópia.",
+      "Compare original e cópia na galeria. Dê notas de zero a dois para forma, luz, composição e coerência. Registre a mudança e uma evidência. Se piorou, mantenha o original."
+    ],
+    "pronto": "uma edição real foi comparada ao original e tem uma decisão justificada",
+    "molde": "Forma: <0, 1 ou 2> porque <evidência>.\nLuz: <nota> porque <evidência>.\nComposição: <nota> porque <evidência>.\nCoerência: <nota> porque <evidência>.\nRevisão realizada: <mudança ou tentativa desfeita>.\nConferência: <o que melhorou ou piorou>.",
+    "calma": "Não encontrou recortar? Procure em Editar na galeria. Se a opção não existir, deixe a prática pendente até usar um editor disponível. Não registre uma edição que não fez.",
+    "q": "Qual justificativa sustenta uma aprovação?",
+    "opcoes": [
+      "A alça está inteira no quadro",
+      "Parece muito mais profissional",
+      "É a imagem de que mais gostei"
+    ],
+    "correta": 0,
+    "cartoes": [
+      [
+        "O que deve acompanhar cada nota da avaliação?",
+        "Uma evidência observável ligada ao critério."
+      ],
+      [
+        "Como demonstrar uma revisão sem prometer uma melhoria vaga?",
+        "Nomeando o defeito, a mudança feita e o resultado que foi conferido."
+      ],
+      [
+        "Uma média alta compensa um defeito que inviabiliza o uso?",
+        "Não. Um problema essencial, como o produto errado, precisa ser corrigido."
+      ]
+    ],
+    "observacao": "As duas versões mostram o problema de recorte e a revisão. Julgue também se o produto mudou além do que foi pedido."
+  },
+  {
+    "titulo": "Entregue o conjunto e reconheça sua autonomia",
+    "entrega": "organizar três peças e explicar as decisões do projeto",
+    "dor": "O projeto não termina quando a imagem fica bonita. Quem recebe precisa entender quais arquivos usar e o que foi feito.",
+    "resumo": [
+      "Separe finais e materiais de trabalho.",
+      "Inclua uma nota com uso e limitações.",
+      "Mostre o que consegue decidir sem copiar a aula."
+    ],
+    "antes": "Entregar uma pasta com tentativas misturadas e nomes repetidos.",
+    "depois": "Separar três finais, referências autorizadas e registro das decisões. Explicar o uso de cada peça e a revisão realizada.",
+    "ex1": "Joana prepara uma pasta com as três imagens finais. Ela mantém as tentativas em outra pasta para não confundir quem recebe.",
+    "ex2": "Mauro lê a nota de entrega e sabe qual imagem vai para catálogo e qual mostra o detalhe. Ele também sabe o que ainda exige revisão.",
+    "confira": "Concluir a leitura não comprova domínio. A evidência é conseguir justificar uma escolha, corrigir um defeito e entregar arquivos utilizáveis.",
+    "campos": [
+      "Finais → três imagens com nomes claros",
+      "Registro → pedido, referência e revisão",
+      "Nota → uso de cada peça e pendências reais"
+    ],
+    "tarefa": "Monte o pacote do seu projeto",
+    "passos": [
+      "Abra Arquivos no celular e procure Nova pasta. No computador, use o botão Nova pasta. Crie finais, referencias e registro dentro da pasta do projeto.",
+      "Separe finais, referências e registro. Se o projeto ainda é só um plano, nomeie a pasta como projeto a executar.",
+      "Escreva uma nota com a função de cada peça, a revisão realizada e o que falta. Explique uma decisão sem consultar a aula."
+    ],
+    "pronto": "o pacote distingue entregas aprovadas, registros e pendências",
+    "molde": "Peça 1: <arquivo e uso>.\nPeça 2: <arquivo e uso>.\nPeça 3: <arquivo e uso>.\nDecisão visual: <escolha e motivo>.\nRevisão realizada: <problema e correção>.\nPendente: <o que ainda falta ou nenhum>.",
+    "calma": "Ainda não gerou as três peças? Registre o plano como pendente e execute uma por sessão. Não marque uma produção inexistente como concluída.",
+    "q": "O projeto contém duas peças prontas e uma só planejada. Como entregar?",
+    "opcoes": [
+      "Chamar as três de concluídas",
+      "Declarar a terceira pendente",
+      "Misturar todas as tentativas"
+    ],
+    "correta": 1,
+    "cartoes": [
+      [
+        "Que organização evita que alguém publique uma tentativa reprovada?",
+        "Separar finais aprovados das versões de trabalho e nomear os arquivos com clareza."
+      ],
+      [
+        "Qual evidência mostra autonomia depois do curso?",
+        "Conseguir justificar escolhas, reconhecer defeitos e planejar correções sem copiar instruções."
+      ],
+      [
+        "Como apresentar uma parte que ainda não foi produzida?",
+        "Como plano ou pendência, descrevendo o que falta para concluir."
+      ]
+    ],
+    "observacao": "As três peças finais ficam separadas das referências. A organização ajuda quem recebe a entender o conjunto."
+  }
+]

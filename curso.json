@@ -1,0 +1,78 @@
+{
+  "id": "prompting-imagem-v62",
+  "titulo": "Prompting de Imagem v6.2 — Pense como Diretor de Fotografia",
+  "titulo_html": "Dê intenção às suas <em>imagens</em>",
+  "curso_curto": "Prompting v6.2",
+  "kicker": "Prompting de Imagem v6.2 · 7 módulos · 21 aulas",
+  "lead": "Escolha enquadramento, luz e composição. Prepare três imagens de produto com decisões que você consegue explicar e revisar.",
+  "imagem_trilha": "assets/img/trilha.webp",
+  "alt_trilha": "Artesã e lojista organizam uma caneca de cerâmica, fundo e luz para uma imagem de produto.",
+  "rodape": "Prompting de Imagem v6.2 · INEMA.CLUB PRO · <a href=\"landing.html\">sobre o curso</a>",
+  "landing": "landing.html",
+  "glossario": true,
+  "modulos": [
+    {
+      "titulo": "Módulo 1 · Escolha sua ferramenta e prepare o projeto",
+      "resumo": "Ao terminar, você terá um briefing, uma pasta de referências e um teste comparável entre ferramentas.",
+      "aulas": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "titulo": "Módulo 2 · A fórmula do prompt",
+      "resumo": "Você vai escrever um pedido em camadas e relacionar cada trecho a uma diferença visível.",
+      "aulas": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "titulo": "Módulo 3 · Controles e testes dentro das ferramentas",
+      "resumo": "Você vai separar formato, referência e variação, registrando um teste sem confundir as causas.",
+      "aulas": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "titulo": "Módulo 4 · Personagem e campanha consistentes",
+      "resumo": "Você vai definir invariantes e montar uma sequência de seis cenas sem depender de sorte.",
+      "aulas": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "titulo": "Módulo 5 · Edite sem perder o que já funciona",
+      "resumo": "Você vai escolher entre ajuste global, edição local, expansão e montagem final.",
+      "aulas": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "titulo": "Módulo 6 · Upscale, restauração e entrega",
+      "resumo": "Você vai decidir quando ampliar e distinguir nitidez aparente de informação confiável.",
+      "aulas": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "titulo": "Módulo 7 · Projeto final: da intenção ao portfólio",
+      "resumo": "Você vai entregar três imagens coerentes, uma edição documentada e uma receita reutilizável.",
+      "aulas": [
+        19,
+        20,
+        21
+      ]
+    }
+  ]
+}

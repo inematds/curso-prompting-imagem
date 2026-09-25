@@ -1,0 +1,39 @@
+[
+  {
+    "arquivo": "assets/img/trilha.webp",
+    "uso_adicional": "assets/img/aula-1.webp",
+    "gerador": "Codex image_gen",
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-737e6ee5-545a-42c7-a5a2-3aca86cc232b.png",
+    "descricao": "Artesã e lojista preparam composição e luz para fotografar cerâmica."
+  },
+  {
+    "arquivo": "assets/img/aula-2.webp",
+    "gerador": "Codex image_gen",
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-fcef9160-671d-4636-af51-8565792eb15e.png"
+  },
+  {
+    "arquivo": "assets/img/aula-3.webp",
+    "gerador": "Codex image_gen",
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-e2d29ccf-3083-4351-b82a-b484a249aae6.png"
+  },
+  {
+    "arquivo": "assets/img/aula-4.webp",
+    "gerador": "Codex image_gen",
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-925b81a9-6be0-4f36-90b0-77fa3b56578f.png"
+  },
+  {
+    "arquivo": "assets/img/aula-5.webp",
+    "gerador": "Codex image_gen",
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-f64bb6c4-a00a-4c37-9caf-b9b90b5cf08c.png"
+  },
+  {
+    "arquivo": "assets/img/aula-6.webp",
+    "gerador": "Codex image_gen",
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-4ac70527-0776-4833-9d75-58e03e725874.png"
+  },
+  {
+    "arquivo": "assets/img/aula-7.webp",
+    "gerador": "Codex image_gen",
+    "original": "/home/nmaldaner/.codex/generated_images/01a0d73d-ae04-76b1-a1c3-97d11abc741c/exec-43f20029-0ecd-44c5-b690-4ff53ddbe75e.png"
+  }
+]

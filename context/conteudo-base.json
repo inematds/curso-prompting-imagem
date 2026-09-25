@@ -1,0 +1,402 @@
+{
+  "slug": "prompting-imagem",
+  "title": "Prompting de Imagem",
+  "subtitle": "Pense como diretor de fotografia",
+  "description": "Transforme uma ideia em decisões de enquadramento, luz e composição. Construa uma série de imagens que você consegue explicar e revisar.",
+  "hours": "7–8 h de estudo guiado",
+  "project": "Uma série de três imagens para a marca fictícia de cerâmica Aurora.",
+  "modules": [
+    {
+      "title": "Escolha sua ferramenta e prepare o projeto",
+      "promise": "Ao terminar, você terá um briefing, uma pasta de referências e um teste comparável entre ferramentas.",
+      "prompt": "Crie uma fotografia de produto de uma caneca de cerâmica sem marca, cor terracota, alça oval visível e inteira. Coloque-a sobre uma mesa clara, diante de um fundo liso creme. Enquadramento quadrado, câmera na altura da caneca, luz suave de uma janela lateral. Preserve a borda circular e a alça inteira. Deixe espaço livre acima do objeto. Sem texto na imagem.",
+      "verify": "Confira objeto, alça, direção da sombra e área livre. Salve a imagem e o nome exato do modelo, mesmo que o resultado não seja aprovado.",
+      "topics": [
+        {
+          "title": "Modelo, plataforma e editor",
+          "concept": "Modelo é o sistema que gera ou transforma a imagem. Plataforma é a interface pela qual você o acessa. Editor é o ambiente em que você recorta, compõe ou retoca. Uma plataforma pode oferecer vários modelos, e o mesmo modelo pode aparecer em interfaces diferentes.",
+          "why": "Separar essas três funções evita atribuir ao modelo uma limitação do botão ou do plano. Uma comparação só é útil se você souber qual versão realmente usou.",
+          "practice": "Abra a ferramenta que já tem. Localize o nome do modelo, o campo de prompt — a instrução escrita —, o envio de referências e o download. Registre quais funções existem antes de assinar outro serviço.",
+          "caution": "Não assuma que todo recurso visto numa aula está disponível na sua conta. Os nomes e limites variam. Comece com uma geração simples e um download.",
+          "visual": "pipeline"
+        },
+        {
+          "title": "Um briefing que cabe em cinco linhas",
+          "concept": "Briefing é a descrição do trabalho: o que mostrar, para quem, onde será usado, que sensação buscar e o que preservar. Aurora é nossa marca fictícia de cerâmica; o trabalho será mostrar uma caneca artesanal com clareza e sensação de uso cotidiano.",
+          "why": "Sem critérios prévios, qualquer imagem bonita parece aprovada. Um pedido de catálogo exige legibilidade do produto; uma peça de ambientação pode valorizar a cena. São decisões diferentes.",
+          "practice": "Escreva: produto, público, formato final, intenção e três características obrigatórias. Exemplo: caneca terracota; pessoas que gostam de objetos artesanais; quadrado; acolhimento; uma alça, borda íntegra e fundo creme.",
+          "caution": "Não invente atributos comerciais, como capacidade, origem ou resistência, a partir de uma imagem. Neste exercício, a marca e o produto são fictícios.",
+          "visual": "brief"
+        },
+        {
+          "title": "Referências com função definida",
+          "concept": "Referência é uma imagem usada para orientar uma característica. Separe referência de objeto, de composição e de estilo. Um produto recortado ajuda a observar sua forma; uma cena pode ensinar a posição do objeto; uma paleta orienta relações de cor.",
+          "why": "Enviar muitas imagens sem explicar seus papéis pode misturar objetos, fundos e estilos. A seleção é parte da direção: cada arquivo deve resolver uma dúvida visual específica.",
+          "practice": "Escolha fotos próprias ou autorizadas. Nomeie cada uma pela função: produto, composição ou luz. Se não tiver uma foto, fotografe agora um objeto inteiro sobre fundo simples. Escreva o que aproveitar e o que ignorar em cada imagem.",
+          "caution": "Uma referência de estilo não garante cópia da identidade. Não use imagens de pessoas reais sem autorização para o uso pretendido.",
+          "visual": "references"
+        },
+        {
+          "title": "Compare pelo trabalho, não pelo ranking",
+          "concept": "Um teste comparável mantém o mesmo pedido e avalia critérios definidos antes da geração. Registre aderência ao briefing, facilidade de edição, erros visíveis e esforço para chegar a uma versão utilizável.",
+          "why": "O modelo mais impressionante em uma galeria pode não resolver o seu produto. Você precisa saber se consegue revisar um erro, repetir o processo e exportar no formato necessário.",
+          "practice": "Rode o prompt do módulo na ferramenta escolhida. Se tiver outra disponível, repita nela. Avalie cada resultado de zero a dois em forma, luz, composição e possibilidade de correção; escreva uma evidência para cada nota.",
+          "caution": "Não transforme duas imagens em um ranking universal. São amostras do seu teste, com data, modelo e configurações específicas.",
+          "visual": "compare"
+        },
+        {
+          "title": "Organize para conseguir repetir",
+          "concept": "Guarde a imagem, o pedido e as referências no mesmo lugar. Registre o nome da ferramenta e a data. Acrescente configurações somente quando souber quais foram usadas. Isso forma uma receita para revisar o trabalho.",
+          "why": "Sem os arquivos de origem, uma imagem aprovada vira um resultado difícil de revisar. Guardar apenas o prompt deixa de fora referências e configurações que influenciaram a geração.",
+          "practice": "Crie pastas 01-brief, 02-referencias, 03-testes e 04-aprovadas. Salve aurora-luz-a-v01.png junto de um texto com data, prompt, modelo e observações. Não substitua a versão aprovada por um experimento.",
+          "caution": "Um número inicial de aleatoriedade não substitui referências. Quando esse controle existir, leia sua explicação na própria ferramenta.",
+          "visual": "archive"
+        },
+        {
+          "title": "Seu primeiro ciclo de revisão",
+          "concept": "Iterar significa fazer uma tentativa, observar o resultado e ajustar uma hipótese. Um ciclo útil começa com um problema localizado: a alça cortou, o fundo ficou ocupado ou a sombra contradiz a luz pedida.",
+          "why": "Mudar tudo de uma vez impede aprender o que teve efeito. Um pequeno registro de decisões é mais útil do que dezenas de variações sem diagnóstico.",
+          "practice": "Gere o exemplo deste módulo. Escolha apenas um problema e descreva uma correção. Faça uma nova versão, compare lado a lado e escreva se a mudança resolveu o problema ou introduziu outro.",
+          "caution": "Defina um teto de tentativas para o exercício, como três rodadas. Se o mesmo erro persistir, reveja a referência ou use edição localizada em vez de repetir o pedido sem mudança.",
+          "visual": "cycle"
+        }
+      ]
+    },
+    {
+      "title": "A fórmula do prompt",
+      "promise": "Você vai escrever um pedido em camadas e relacionar cada trecho a uma diferença visível.",
+      "prompt": "Fotografia de uma caneca artesanal terracota com uma única alça oval visível e inteira. Mesa clara, caneca inteira e margem ao redor. Câmera na altura da borda. Luz de janela lateral e sombra suave no lado oposto à fonte. Esmalte fosco com pequenas irregularidades, sem rachaduras. Fundo creme simples. Produto na metade inferior e espaço livre acima para um título posterior. Formato horizontal 4:3. Sem texto.",
+      "verify": "Anote no resultado onde aparecem sujeito, enquadramento, luz, textura e composição. Se um pedido não apareceu, descreva o desvio sem acrescentar vários adjetivos.",
+      "topics": [
+        {
+          "title": "Sujeito e ação: o que precisa existir",
+          "concept": "Sujeito é o elemento principal da imagem; ação é o que acontece com ele. Em uma cena estática, a relação com a superfície também importa: uma caneca apoiada na mesa é diferente de uma caneca suspensa. Quantidade e posição reduzem ambiguidades.",
+          "why": "Um pedido como produto bonito não informa forma, material nem situação. A descrição deve priorizar características reconhecíveis e necessárias ao objetivo.",
+          "practice": "Comece com uma frase contendo objeto, quantidade, característica e posição. Depois acrescente uma ação, se ela ajudar: uma mão adulta segura a alça. Compare a dificuldade da cena com e sem a mão.",
+          "caution": "Mais detalhes não significam automaticamente mais controle. Evite características contraditórias e mantenha a prioridade do objeto principal explícita.",
+          "visual": "subject"
+        },
+        {
+          "title": "Enquadramento e ponto de vista",
+          "concept": "Enquadramento é a parte da cena que aparece. Plano aberto mostra contexto; plano médio equilibra objeto e ambiente; detalhe mostra uma região. Ponto de vista descreve a posição da câmera: de cima, na altura do objeto ou de baixo.",
+          "why": "A mesma caneca pode comunicar uso, forma ou acabamento conforme o corte. O tamanho do sujeito na imagem muda aquilo que o aluno e o público conseguem inspecionar.",
+          "practice": "Abra uma foto própria na galeria. Observe o objeto inteiro e depois amplie a alça ou outro detalhe com o gesto de pinça. Escreva dois pedidos: produto inteiro e detalhe. Ampliar a visualização não cria informação nova.",
+          "caution": "Nomear uma lente no prompt sugere uma aparência, mas não impõe uma simulação óptica exata. Na fotografia real, a perspectiva depende da posição da câmera; ao mudar a distância, as relações espaciais mudam.",
+          "visual": "framing"
+        },
+        {
+          "title": "Luz: fonte, direção e qualidade",
+          "concept": "Fonte é de onde vem a luz, como uma janela. Direção é sua posição relativa ao objeto. Qualidade descreve a transição das sombras: dura, com borda marcada; suave, com transição gradual. Cor da iluminação é outra decisão e não substitui as anteriores.",
+          "why": "Luz torna volume e material legíveis. Dizer apenas iluminação cinematográfica deixa em aberto onde estarão sombras, reflexos e separação do fundo.",
+          "practice": "Ponha um objeto perto de uma janela. Observe a borda da sombra. Compare com a sombra de uma lanterna, se tiver uma. Escreva a origem da luz e se a sombra termina de modo suave ou marcado.",
+          "caution": "A ilustração é um exemplo para observar. Na sua geração, confira sombra e reflexo: o resultado pode contrariar o pedido.",
+          "visual": "light"
+        },
+        {
+          "title": "Textura: como a superfície responde",
+          "concept": "Textura é o padrão de pequenas variações de uma superfície. Material é aquilo de que o objeto parece feito. Cerâmica fosca, metal polido e tecido de linho pedem reflexos e detalhes diferentes; esses sinais ajudam a interpretar a imagem.",
+          "why": "Adicionar ultra detalhado não resolve um material incoerente. Para Aurora, pequenas variações de esmalte são úteis; rachaduras e rugosidade exagerada mudariam a percepção do produto.",
+          "practice": "Escolha dois atributos visíveis e um limite: esmalte fosco, pequenas irregularidades, sem fissuras. Compare com uma versão lisa e brilhante. Amplie as áreas de reflexo para verificar o efeito.",
+          "caution": "Textura gerada não comprova características físicas. Não apresente um detalhe inventado como fotografia fiel de um produto real.",
+          "visual": "texture"
+        },
+        {
+          "title": "Composição: conduza o olhar",
+          "concept": "Composição é a organização dos elementos dentro do quadro. Espaço negativo é a área com pouca informação ao redor do assunto. A divisão em terços é uma referência de posicionamento, não uma obrigação para toda imagem.",
+          "why": "Uma peça com título precisa reservar espaço antes da geração. Inserir o texto depois sem planejar costuma cobrir o produto ou criar uma hierarquia confusa.",
+          "practice": "Desenhe um retângulo no papel. Reserve uma parte para o título e outra para o produto. Compare com um desenho centralizado. Na ilustração da aula, cubra a área vazia com o dedo e confira se a caneca continua visível.",
+          "caution": "Uma composição assimétrica não é automaticamente melhor. O critério é a leitura do produto e a função da peça, inclusive quando vista pequena.",
+          "visual": "composition"
+        },
+        {
+          "title": "Estilo e estrutura sem palavras mágicas",
+          "concept": "Estilo é um conjunto de escolhas de cor, luz, textura e organização do quadro. Escreva cada escolha numa linha. A ficha da prática mostra como juntar as decisões num pedido legível.",
+          "why": "Termos como premium e cinematográfico podem orientar, mas precisam de decisões observáveis. Uma ficha estruturada ajuda a revisar o que permaneceu fixo e o que foi alterado.",
+          "practice": "Troque elegante por escolhas visíveis: fundo simples, luz suave, poucos objetos e acabamento fosco. Reúna as decisões usando a ficha copiável desta aula. Guarde o texto junto da imagem.",
+          "caution": "Não cole parâmetros de uma plataforma em outra esperando o mesmo efeito. A estrutura organiza o trabalho; o comportamento depende do modelo e da interface.",
+          "visual": "layers"
+        }
+      ]
+    },
+    {
+      "title": "Controles e testes dentro das ferramentas",
+      "promise": "Você vai separar formato, referência e variação, registrando um teste sem confundir as causas.",
+      "prompt": "Use uma foto própria da caneca como referência. Se não tiver, fotografe um objeto inteiro agora. Preserve forma, cor e alça. Crie uma imagem quadrada com fundo creme e luz suave lateral. Deixe o produto inteiro. Sem texto.",
+      "verify": "Antes de gerar, anexe uma foto própria do objeto. Depois compare forma e posição. Registre qualquer outra diferença que apareceu.",
+      "topics": [
+        {
+          "title": "Proporção não é resolução",
+          "concept": "Proporção é a relação entre largura e altura. Um quadrado tem proporção 1:1. Resolução é a dimensão em pontos da imagem, chamados pixels. Arquivos de 512 por 512 e 1024 por 1024 pontos continuam quadrados.",
+          "why": "Escolher a proporção antes ajuda a compor. Aumentar pixels depois não recupera uma alça cortada nem reserva espaço para um título.",
+          "practice": "Observe as molduras quadrada e vertical da ilustração. Escolha o formato exigido pelo destino da peça. No arquivo salvo, abra Informações ou Detalhes para conferir largura e altura.",
+          "caution": "Recortar elimina informação; expandir a tela inventa novas áreas. São operações diferentes, mesmo quando entregam o mesmo formato final.",
+          "visual": "formats"
+        },
+        {
+          "title": "Referência de identidade e de estilo",
+          "concept": "Identidade é a aparência que faz você reconhecer o mesmo produto. Estilo é a linguagem de cor, luz e textura da cena. Uma foto da caneca orienta sua forma. Outra imagem pode orientar só a luz, sem trocar o objeto.",
+          "why": "Separar essas funções evita trocar a aparência do produto ao pedir uma nova atmosfera. Confira primeiro a identidade e depois a luz e as cores.",
+          "practice": "Na sua ferramenta, identifique o recurso correspondente a imagem de entrada ou edição. Anexe a caneca e diga para preservar a forma. Se acrescentar referência de estilo, explique que deseja apenas luz e paleta.",
+          "caution": "Os recursos de referência variam entre ferramentas. Leia a ajuda da sua interface e use uma foto por vez se houver mistura de objetos.",
+          "visual": "references"
+        },
+        {
+          "title": "Intensidade de estilo e exploração",
+          "concept": "Algumas ferramentas deixam você ajustar a liberdade de interpretação do estilo. Um valor diferente pode mudar cor, fundo ou acabamento. Observe o efeito numa pequena comparação. O nome e a escala do ajuste dependem da ferramenta.",
+          "why": "Entender a função do controle permite escolher entre explorar ideias e refinar uma decisão. O nome e a escala variam entre ferramentas.",
+          "practice": "Se o controle existir, faça duas rodadas com valores próximos do padrão e uma diferença moderada. Mantenha o restante. Registre quais partes mudaram: enquadramento, objetos, acabamento ou cor.",
+          "caution": "Não ensine um número como receita universal. Um valor alto não significa mais qualidade; pode afastar a imagem do briefing.",
+          "visual": "compare"
+        },
+        {
+          "title": "Ajustes de processamento, texto e edição",
+          "concept": "Algumas ferramentas mostram quantidade de etapas de cálculo, influência do texto ou força de edição. Mais etapas não garantem uma imagem melhor. A força de edição pode mudar quanto da imagem original é preservado. Leia a descrição de um controle e teste só ele.",
+          "why": "Cada ferramenta define seus próprios ajustes. Um valor que funciona numa pode falhar em outra. Comece no padrão e observe uma mudança de cada vez.",
+          "practice": "Comece no padrão do modelo. Leia a descrição de um único controle e faça um teste pequeno. Anote o valor, a mudança esperada e o efeito observado. Se a interface não expõe o parâmetro, prossiga sem ele.",
+          "caution": "Na interface, esses controles podem aparecer como steps, guidance ou força de edição. São nomes de ajustes diferentes. Não copie valores entre ferramentas esperando o mesmo resultado.",
+          "visual": "controls"
+        },
+        {
+          "title": "Seed e comparação honesta",
+          "concept": "Seed é um ponto de partida numérico usado por determinados geradores. Ela pode ajudar a reduzir uma fonte de variação num teste, mas prompt, modelo e configurações também participam do resultado.",
+          "why": "Usar a mesma seed não torna duas imagens uma experiência perfeitamente controlada. A comparação deve registrar o que efetivamente mudou, e não apenas o que você pretendia mudar.",
+          "practice": "Faça A com luz suave e B com luz dura. Se houver seed, registre-a e mantenha-a. Compare sombra, pose, fundo e forma. Separe a diferença de luz das mudanças adicionais.",
+          "caution": "O número inicial ajuda em certos testes, mas não guarda uma pessoa ou estilo. Mantenha a referência do produto e confira o resultado.",
+          "visual": "compare"
+        },
+        {
+          "title": "Um preset verificável",
+          "concept": "Preset é um conjunto salvo de configurações. Para ser útil ao seu trabalho, ele precisa vir acompanhado de referência e critério de aprovação. Um preset sem contexto só repete números.",
+          "why": "A receita completa permite retomar o trabalho sem adivinhar e identificar mudanças de comportamento após atualizações da ferramenta.",
+          "practice": "Preencha a ficha copiável da prática desta aula. Inclua pedido, referência, formato, ferramenta e controles disponíveis. Marque como a testar quando ainda não tiver executado a receita.",
+          "caution": "Reprodutibilidade aqui significa documentar o processo e reconhecer diferenças. Não prometa arquivos idênticos em plataformas ou versões diferentes.",
+          "visual": "archive"
+        }
+      ]
+    },
+    {
+      "title": "Personagem e campanha consistentes",
+      "promise": "Você vai definir invariantes e montar uma sequência de seis cenas sem depender de sorte.",
+      "prompt": "Crie uma cena para a marca fictícia Aurora. Uma ceramista adulta fictícia, cabelo curto grisalho, camisa azul simples e avental bege, segura uma caneca terracota de alça oval. Use a referência anexada da caneca para a forma e o material. Ambiente de ateliê com mesa clara, luz de janela lateral, enquadramento médio. A mão deve apoiar a caneca de modo plausível. Não inclua logotipos nem texto. Preserve a aparência da personagem nas próximas edições a partir desta imagem aprovada.",
+      "verify": "A referência obrigatória é a caneca aprovada. Após a primeira personagem, salve também seu retrato e use-o nas cenas seguintes; confira rosto, roupa, mãos e produto.",
+      "topics": [
+        {
+          "title": "Defina o que não pode mudar",
+          "concept": "Invariantes são características que precisam permanecer ao longo da série. Para a caneca: cor, número de alças e formato. Para a personagem fictícia: faixa etária, cabelo, traços principais e figurino. Ângulo e ação podem variar.",
+          "why": "Uma campanha coerente depende de reconhecer o mesmo universo, não de repetir o mesmo enquadramento. Separar invariantes de variáveis permite criar diversidade com controle.",
+          "practice": "Monte uma ficha com duas colunas: preservar e variar. Escolha cinco invariantes no máximo para a primeira rodada e descreva como verificá-los visualmente.",
+          "caution": "Não use adjetivos vagos como mesma energia como único critério. Escreva sinais que outra pessoa consiga conferir na imagem.",
+          "visual": "identity"
+        },
+        {
+          "title": "Crie e aprove uma imagem-base",
+          "concept": "Imagem-base é a referência aprovada que orientará a série. Para identidade, prefira um rosto desobstruído; para produto, prefira bordas visíveis e iluminação que mostre a forma.",
+          "why": "Uma base com erro transfere incerteza para todas as cenas. Resolver olhos, cabelo, alça ou rótulo antes da expansão economiza revisões posteriores.",
+          "practice": "Escolha uma foto própria de objeto inteiro e confira contorno, cor e alça ou outra parte importante. Salve a referência aprovada com um nome estável. Se o trabalho incluir pessoa, use referência autorizada e com rosto visível.",
+          "caution": "Não confunda uma imagem visualmente atraente com uma referência útil. Sombras que escondem metade do rosto podem dificultar a verificação de identidade.",
+          "visual": "subject"
+        },
+        {
+          "title": "Combine referências sem misturar papéis",
+          "concept": "Uma cena pode usar referências distintas para pessoa, produto, roupa e ambiente. A instrução deve associar cada arquivo ao papel correto, conforme o modo de anexar da ferramenta.",
+          "why": "Sem associação, a IA pode copiar o cenário da foto de produto ou trocar o figurino da personagem. A clareza do pedido importa tanto quanto a quantidade de imagens.",
+          "practice": "Nomeie os arquivos e escreva: imagem A para a personagem; imagem B para a caneca; fundo conforme descrição. Comece com duas referências e acrescente outras só se resolverem um problema real.",
+          "caution": "A capacidade de usar múltiplas referências varia. Se houver confusão, simplifique para uma edição por vez e confira os invariantes após cada etapa.",
+          "visual": "references"
+        },
+        {
+          "title": "Planeje seis cenas com funções diferentes",
+          "concept": "Uma lista de cenas define o papel de cada imagem na história. Para Aurora: ambiente do ateliê, escolha da peça, detalhe do esmalte, uso da caneca, conjunto na mesa e imagem final com espaço para mensagem.",
+          "why": "Ter seis imagens do mesmo produto não basta para construir uma sequência. Cada quadro precisa acrescentar informação ou mudar o ponto de vista com intenção.",
+          "practice": "Use a ficha copiável da prática desta aula seis vezes, uma por cena. Registre função, enquadramento, referência e características fixas. Comece pela peça mais simples quando for executar a produção.",
+          "caution": "Não peça seis imagens finais numa colagem e presuma que cada quadro terá resolução suficiente. Use a colagem para planejamento e produza finais individualmente.",
+          "visual": "storyboard"
+        },
+        {
+          "title": "Faça uma folha de contato",
+          "concept": "Folha de contato é uma visão de várias imagens em miniatura. Ela revela diferenças de paleta, escala, figurino e iluminação que passam despercebidas quando cada arquivo é visto isoladamente.",
+          "why": "O público verá a campanha como conjunto. Uma imagem excelente pode quebrar a unidade da série se o produto ou a personagem mudar nela.",
+          "practice": "Organize os seis quadros em uma grade. Marque com palavras cada desvio: alça menor, camisa diferente, luz invertida. Corrija primeiro os erros de identidade; depois ajuste variações de acabamento.",
+          "caution": "Evite selecionar só pelas imagens mais bonitas individualmente. Coerência e função da cena são critérios distintos de impacto visual isolado.",
+          "visual": "contact"
+        },
+        {
+          "title": "Corrija o ponto que quebra a série",
+          "concept": "Correção localizada preserva decisões que já funcionam. Se apenas a camisa mudou, descreva essa edição sem reescrever toda a cena. Compare também áreas que deveriam permanecer intactas.",
+          "why": "Regenerar do zero pode resolver um detalhe e perder pose, identidade e composição. Uma correção deve ser julgada pelo ganho e pelo que preservou.",
+          "practice": "Escolha o quadro com maior desvio, anexe-o e solicite uma mudança objetiva. Salve como nova versão. Recoloque-o na folha de contato para conferir se o conjunto melhorou.",
+          "caution": "Não aceite uma mão corrigida se a caneca mudou de forma. A revisão final precisa voltar aos invariantes do briefing.",
+          "visual": "mask"
+        }
+      ]
+    },
+    {
+      "title": "Edite sem perder o que já funciona",
+      "promise": "Você vai escolher entre ajuste global, edição local, expansão e montagem final.",
+      "prompt": "Edite uma cópia da imagem fornecida. Preserve o produto, sua escala e sua cor. Amplie apenas o ambiente para um quadro horizontal. Continue o fundo e a mesa sem acrescentar objetos. Mantenha uma sombra coerente junto da base.",
+      "verify": "Compare a cópia expandida com o original. Confira escala do produto, continuidade da mesa, direção da luz e sombra junto da base. O objeto não deve ser esticado.",
+      "topics": [
+        {
+          "title": "Global ou local: qual é o alcance?",
+          "concept": "Uma edição global altera a imagem inteira, como contraste ou temperatura. Uma edição local modifica uma área, como remover um objeto. O alcance precisa corresponder ao problema observado.",
+          "why": "Pedir uma nova atmosfera para remover uma distração é uma intervenção maior que a necessária. Escolher o menor alcance reduz o número de coisas a conferir.",
+          "practice": "Descreva um problema da sua imagem. Classifique-o como global, local, estrutural ou de diagramação. Escolha o método antes de abrir o editor.",
+          "caution": "Um pedido local em linguagem natural não garante preservação pixel a pixel. Compare o resultado inteiro e mantenha o original.",
+          "visual": "editing"
+        },
+        {
+          "title": "Máscara: indique onde mexer",
+          "concept": "Máscara é uma marcação da região que poderá ser alterada. Inpainting é o preenchimento ou reconstrução dessa área. O significado de branco, preto ou seleção varia conforme o editor.",
+          "why": "Uma máscara precisa delimitar o objeto e permitir integração com as bordas. Incluir área demais pode alterar aquilo que você queria preservar.",
+          "practice": "Desenhe no papel o contorno da imagem e circule a região com defeito. Escreva preservar nas outras áreas. Se editar numa ferramenta, marque a região com uma pequena margem e confira o resultado inteiro.",
+          "caution": "Confira a convenção da ferramenta antes de aplicar. Se estiver removendo uma alça duplicada, proteja a alça correta e revise sombra e contorno após a edição.",
+          "visual": "mask"
+        },
+        {
+          "title": "Expandir é criar fora do quadro",
+          "concept": "Outpainting é gerar conteúdo além da área original. Serve para adaptar uma imagem vertical a um formato horizontal ou criar espaço para texto, preservando o assunto quando possível.",
+          "why": "Um recorte só reduz a área; a expansão acrescenta conteúdo. Saber a diferença evita esticar uma imagem e deformar o produto para caber no formato.",
+          "practice": "Amplie a tela para um lado e descreva a continuação do fundo e da mesa. Mantenha a imagem-base em posição. Verifique a linha do horizonte, as sombras e a transição entre original e área criada.",
+          "caution": "O modelo pode inventar novos objetos nas áreas abertas. Peça continuidade simples e revise junções, repetições e mudanças de textura.",
+          "visual": "formats"
+        },
+        {
+          "title": "Integre objeto, luz e fundo",
+          "concept": "Um objeto inserido parece pertencer à cena quando escala, perspectiva, luz e contato com a superfície são coerentes. A sombra de contato é a região escura próxima ao apoio do objeto.",
+          "why": "Trocar o fundo sem observar essas relações produz aparência de recorte colado. A correção precisa considerar o conjunto de sinais, não só a borda.",
+          "practice": "Observe a direção da luz no produto. Escolha ou gere fundo compatível. Confira se a base encosta na mesa e se a sombra começa no ponto de apoio, sem lacuna que faça o objeto flutuar.",
+          "caution": "Um fundo bonito com luz oposta pode piorar o resultado. Não use desfoque excessivo para esconder toda incompatibilidade.",
+          "visual": "light"
+        },
+        {
+          "title": "Texto e marca em camada editável",
+          "concept": "Camada é um elemento separado numa composição. Manter texto e logo em camadas permite corrigir grafia, tamanho, posição e cor sem regenerar a foto.",
+          "why": "A IA pode produzir texto útil para estudo, mas o arquivo final precisa de revisão. Tipografia exata e códigos de cor exigem controle no editor de diagramação.",
+          "practice": "Exporte a imagem sem texto, abra no editor de sua preferência e acrescente Aurora e uma frase curta. Teste o tamanho de leitura no celular e mantenha margem nas bordas.",
+          "caution": "Não declare fidelidade de fonte ou HEX só porque o prompt os menciona. Use o arquivo de marca correto e ajuste cores diretamente nas camadas.",
+          "visual": "layout"
+        },
+        {
+          "title": "Histórico de edição e antes/depois",
+          "concept": "Um antes/depois útil mantém enquadramento e escala comparáveis. O histórico registra o problema, a intervenção e o critério de aprovação. Isso torna a revisão explicável.",
+          "why": "Sem o original, é difícil saber se você corrigiu algo ou apenas mudou o estilo. A comparação permite perceber perdas de identidade e detalhes inventados.",
+          "practice": "Salve v01-original, v02-edicao e v03-final. Anote uma frase para cada mudança. Compare em miniatura, tamanho de uso e ampliação. Só aprove quando o problema estiver resolvido sem perder os invariantes.",
+          "caution": "Uma versão posterior não é necessariamente melhor. Volte à anterior quando o ganho local custar uma perda importante em outra região.",
+          "visual": "compare"
+        }
+      ]
+    },
+    {
+      "title": "Upscale, restauração e entrega",
+      "promise": "Você vai decidir quando ampliar e distinguir nitidez aparente de informação confiável.",
+      "prompt": "Use a imagem anexada como base. Faça uma restauração conservadora, reduzindo artefatos de compressão e mantendo o contorno da caneca, a alça e a posição da sombra. Preserve as pequenas irregularidades já visíveis no esmalte. Evite inventar inscrições, marcas ou novos padrões. Entregue a maior resolução disponível nesta ferramenta sem mudar a proporção.",
+      "verify": "Confira as dimensões reais do arquivo. Compare bordas, textura e detalhes com o original. O prompt não garante 4K, identidade perfeita nem recuperação de informação ausente.",
+      "topics": [
+        {
+          "title": "Pixels, tamanho e destino",
+          "concept": "Pixel é a unidade de amostragem da imagem digital. Resolução descreve suas dimensões em pixels. O tamanho necessário depende do uso; uma miniatura e uma impressão grande têm exigências diferentes.",
+          "why": "Gerar um arquivo enorme sem necessidade consome recursos. Entregar um arquivo pequeno para uma aplicação ampla produz perda visível de definição.",
+          "practice": "Consulte o destino pretendido e registre largura, altura e proporção necessárias. Abra as propriedades do arquivo atual e compare. Para o exercício web, use um tamanho coerente com a área de exibição.",
+          "caution": "Escrever 4K no prompt não comprova resolução. Confira o arquivo baixado; o nome da opção da interface também pode representar uma ampliação posterior.",
+          "visual": "resolution"
+        },
+        {
+          "title": "Interpolação e detalhe inventado",
+          "concept": "Interpolação aumenta a grade de pixels estimando valores entre amostras existentes. Upscale generativo pode criar detalhes plausíveis. Plausível significa que parece fazer sentido, não que existia no original.",
+          "why": "É possível obter uma imagem mais nítida que seja menos fiel. Essa distinção é essencial quando há rostos, documentos, inscrições ou produto com detalhes específicos.",
+          "practice": "Compare uma ampliação simples com uma restauração generativa, se tiver acesso às duas. Observe bordas, padrões e letras. Marque qualquer detalhe que só apareceu depois.",
+          "caution": "Não apresente detalhe inventado como recuperação comprovada. Uma imagem muito pequena não contém informação suficiente para reconstrução garantida.",
+          "visual": "resolution"
+        },
+        {
+          "title": "Amplie depois de resolver a estrutura",
+          "concept": "Estrutura inclui contorno, proporção, quantidade de elementos e composição. Upscale melhora a apresentação de uma imagem, mas não é o método ideal para consertar uma alça errada ou um objeto cortado.",
+          "why": "Ampliar cedo pode tornar erros mais evidentes e aumentar o trabalho de correção. A ordem das etapas deve privilegiar decisões maiores primeiro.",
+          "practice": "Revise forma e composição na imagem-base. Corrija problemas locais. Só então faça a ampliação necessária e reavalie. Guarde o arquivo anterior para comparação.",
+          "caution": "Não repita várias ampliações automaticamente. Cada passagem pode reforçar artefatos e inventar textura; pare quando o uso final estiver atendido.",
+          "visual": "pipeline"
+        },
+        {
+          "title": "Inspecione em três escalas",
+          "concept": "Miniatura mostra hierarquia e unidade; tamanho de uso mostra legibilidade real; ampliação mostra bordas e artefatos. Nenhuma dessas visões substitui as outras.",
+          "why": "Uma textura pode parecer impressionante ampliada e distrair no tamanho final. Uma marca pode parecer correta de longe e conter letras quebradas de perto.",
+          "practice": "Observe primeiro a miniatura. Abra depois no tamanho previsto para publicação. Por fim, amplie uma borda ou textura. Anote um problema por escala ou registre que o critério foi atendido.",
+          "caution": "Evite julgar apenas em zoom extremo. A decisão final deve considerar o local onde a imagem será usada.",
+          "visual": "zoom"
+        },
+        {
+          "title": "Exportação e compressão",
+          "concept": "Exportar é salvar uma versão adequada ao destino. Compressão reduz o tamanho do arquivo, às vezes descartando informação. JPEG é comum para fotografia; PNG é útil quando transparência ou elementos gráficos exigem outro tratamento.",
+          "why": "O arquivo de trabalho e o arquivo de entrega podem ter funções diferentes. Preservar a fonte permite refazer exportações sem acumular perdas.",
+          "practice": "Guarde uma versão de qualidade alta e exporte uma cópia para web. Abra a cópia, confira dimensões, tamanho e bordas. Se a ferramenta oferecer WebP, compare a aparência no navegador usado pelo público.",
+          "caution": "Não renomeie a extensão para converter formato. E não salve repetidamente a única cópia em JPEG com qualidade baixa.",
+          "visual": "archive"
+        },
+        {
+          "title": "Aprove com critérios visíveis",
+          "concept": "Uma revisão final deve voltar ao briefing: produto correto, formato, coerência de luz, legibilidade e ausência de defeitos relevantes. Qualidade é uma decisão documentada para um uso específico.",
+          "why": "Sem critérios, o processo se torna uma busca sem fim por uma versão mais bonita. A aprovação precisa dizer por que a imagem serve ao trabalho.",
+          "practice": "Avalie forma, luz, composição e coerência. Para cada critério: zero significa falha; um, precisa revisar; dois, atende. Anote uma evidência por nota. A aula 20 mostra a ficha completa.",
+          "caution": "A soma da rubrica não deve esconder um erro eliminatório, como produto diferente ou texto incorreto. Registre esses problemas separadamente.",
+          "visual": "checklist"
+        }
+      ]
+    },
+    {
+      "title": "Projeto final: da intenção ao portfólio",
+      "promise": "Você vai entregar três imagens coerentes, uma edição documentada e uma receita reutilizável.",
+      "prompt": "Crie uma fotografia para a campanha fictícia Aurora usando a referência anexada da caneca aprovada. Preserve o corpo terracota, a alça oval e o acabamento fosco. Mostre a caneca sobre mesa clara em um ateliê simples, com luz suave de janela lateral. Mantenha a paleta terracota, creme e azul discreto. Reserve espaço livre acima do produto. Gere apenas uma imagem; não faça colagem e não inclua texto.",
+      "verify": "Produza três imagens separadas: produto inteiro, detalhe do esmalte e cena de uso. Registre a decisão alterada em cada uma e mantenha referências e configurações junto dos arquivos.",
+      "topics": [
+        {
+          "title": "Feche o escopo antes de gerar",
+          "concept": "Escopo define o que será entregue. Neste projeto são três imagens, uma comparação antes/depois, uma ficha de geração e um breve relato de decisões. O objetivo é demonstrar direção e revisão, não volume.",
+          "why": "Um conjunto pequeno permite cuidar de cada detalhe e perceber a relação entre briefing e resultado. Limitar a entrega também ajuda a concluir.",
+          "practice": "Use as cinco linhas que você escreveu na aula 1, na ficha da prática. Se pulou aquela aula, escreva produto, público, uso, intenção e três características obrigatórias. Defina a função das três peças antes de gerar.",
+          "caution": "Não acrescente vídeo, logo novo e catálogo completo no meio do projeto. Anote ideias futuras e finalize o conjunto combinado.",
+          "visual": "brief"
+        },
+        {
+          "title": "Construa a matriz de variações",
+          "concept": "Matriz de variações organiza o que fica fixo e o que muda em cada imagem. Nas três peças, mantenha produto, paleta e lógica de luz; varie função, plano e contexto de modo deliberado.",
+          "why": "A matriz transforma escolhas soltas em uma série. Ela também ajuda a diagnosticar se uma diferença é intencional ou um erro de geração.",
+          "practice": "Preencha três linhas na ficha: produto, detalhe e uso. Em cada linha, escreva enquadramento, ação, referência e critério de aprovação. Gere uma peça por vez.",
+          "caution": "Não mude luz, estilo, personagem e produto simultaneamente só para tornar a série variada. Preserve os sinais que identificam a marca fictícia.",
+          "visual": "contact"
+        },
+        {
+          "title": "Escolha pela rubrica e justifique",
+          "concept": "Uma rubrica é uma lista de critérios para avaliar o trabalho. Neste projeto usamos forma, luz, composição e coerência. Zero indica falha; um, precisa revisar; dois, atende. Escreva uma evidência por nota e destaque problemas que impedem o uso.",
+          "why": "Justificar a escolha desenvolve vocabulário de direção. Uma nota isolada pouco ensina; uma evidência como alça inteira e sombra coerente mostra o que foi observado.",
+          "practice": "Compare duas candidatas para a mesma função. Dê notas e escreva uma evidência por critério. Escolha a que atende melhor ao briefing, mesmo que a outra seja mais chamativa.",
+          "caution": "A rubrica é uma ferramenta de estudo, não uma medição científica de beleza. Ajuste critérios quando o objetivo mudar.",
+          "visual": "checklist"
+        },
+        {
+          "title": "Apresente uma revisão rastreável",
+          "concept": "Um estudo de caso mostra o pedido, as tentativas relevantes, a correção e o resultado. O antes/depois deve revelar uma decisão que fez diferença, como liberar espaço para título ou corrigir um objeto.",
+          "why": "Mostrar processo torna seu aprendizado verificável. Também evita que o portfólio seja apenas uma sequência de imagens sem explicação.",
+          "practice": "Escolha uma edição e escreva: problema observado, intervenção feita e resultado conferido. Use imagens com escala comparável. Identifique as peças como estudo autoral com IA para marca fictícia.",
+          "caution": "Não invente cliente, campanha publicada, métricas ou resultados comerciais. O valor do exercício está nas decisões e na qualidade demonstrada.",
+          "visual": "compare"
+        },
+        {
+          "title": "Monte o pacote de entrega",
+          "concept": "Um pacote organizado contém finais, referências autorizadas, prompts, configurações e instruções curtas para reutilizar. Mantenha arquivos de teste separados das versões aprovadas.",
+          "why": "Outra pessoa — ou você daqui a um mês — precisa encontrar a imagem correta sem abrir dezenas de arquivos. Organização também permite revisar só a peça necessária.",
+          "practice": "Separe três pastas: finais, referencias e registro. Use nomes que indiquem função e versão. Inclua um arquivo de texto com as instruções de uso e as limitações. Guarde as imagens separadamente da exportação de progresso do curso.",
+          "caution": "O progresso fica no navegador. A cópia de segurança da jornada não inclui suas imagens externas. Guarde os dois conjuntos de arquivos.",
+          "visual": "archive"
+        },
+        {
+          "title": "Revise o que você consegue fazer",
+          "concept": "Concluir uma leitura e dominar uma habilidade são coisas diferentes. O projeto deve mostrar que você consegue descrever uma cena, testar uma variável, reconhecer um erro e corrigir sem perder a intenção.",
+          "why": "A revisão final transforma um exercício terminado em próximos passos concretos. Dúvidas remanescentes indicam qual módulo revisitar.",
+          "practice": "Sem consultar o texto, explique uma imagem em cinco decisões. Depois faça um novo prompt para outro objeto usando o mesmo raciocínio. Liste uma habilidade que ficou clara e uma que precisa de outra prática.",
+          "caution": "Não marque domínio apenas porque a imagem ficou bonita. Verifique se você consegue explicar e repetir o processo com um novo exemplo.",
+          "visual": "cycle"
+        }
+      ]
+    }
+  ]
+}
