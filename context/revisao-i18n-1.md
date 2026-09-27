@@ -1,0 +1,8 @@
+# Revisão simulada de tradução · source-1
+
+- **Escopo:** 508 unidades, cobrindo navegação/glossário e as aulas 1–8 (módulos 1–3), incluindo práticas e materiais complementares.
+- **Leitura simulada:** percorri as instruções como uma pessoa adulta iniciante que usa o celular e um chat, sem experiência em fotografia ou geração de imagens. A sequência permanece acionável: definir o uso, escolher referências, registrar tentativas, compor enquadramento, descrever luz/superfície, organizar o quadro, separar proporção de resolução e testar um controle por vez.
+- **Ajustes de revisão:** usei “mug” e “taza” para caneca; reservei “framing” e “encuadre” para enquadramento; mantive “prompt” para o pedido dirigido à IA; preservei os papéis de craftswoman/artesana e shop owner/comerciante. Ajustei o rótulo do glossário para o singular correto em EN/ES. Mantive explicações em linguagem concreta e os nomes próprios Joana, Mauro e Aurora.
+- **Ilustrações e ferramentas:** os exemplos comparativos continuam identificados como didáticos/ilustrativos, sem resposta simulada da ferramenta. As instruções de prática continuam condicionais ao acesso e aos controles realmente disponíveis; não afirmam que uma geração ou edição tenha sido executada.
+- **Limites:** esta é uma revisão textual simulada, não uma leitura por pessoa externa nem uma validação visual no curso montado. O arquivo `source-1.json` cobre só até a aula 8; as aulas 9–21 e o comportamento no navegador exigem revisão posterior.
+- **Verificação estrutural:** EN e ES são JSON válidos com 508 chaves em mesma ordem da fonte; tags e atributos HTML e contagem de delimitadores de placeholders conferidos.

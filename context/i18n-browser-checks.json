@@ -1,0 +1,32 @@
+[
+  {
+    "locale": "pt",
+    "lessons": 21,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "images": true,
+    "errors": []
+  },
+  {
+    "locale": "en",
+    "lessons": 21,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "images": true,
+    "errors": []
+  },
+  {
+    "locale": "es",
+    "lessons": 21,
+    "exportImport": true,
+    "crossLanguageRejected": true,
+    "languageLinks": true,
+    "mobile": true,
+    "images": true,
+    "errors": []
+  }
+]

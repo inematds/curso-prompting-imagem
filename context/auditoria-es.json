@@ -1,0 +1,1371 @@
+{
+  "arquivo": "/home/nmaldaner/projetos/curso-prompting-imagem/es/curso.html",
+  "primeiraVisita": {
+    "trilha": {
+      "barControls": 2,
+      "modal": false,
+      "revVisivel": false
+    },
+    "aula-1": {
+      "barControls": 3,
+      "modal": false,
+      "revVisivel": false
+    }
+  },
+  "media": 10,
+  "aulas": [
+    {
+      "aula": "1",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 259,
+        "nS": 26,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 3,
+        "cena": true,
+        "cenaAlt": 122,
+        "cenaSrc": "../assets/img/aula-1.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 83
+      }
+    },
+    {
+      "aula": "2",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 267,
+        "nS": 24,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 116,
+        "cenaSrc": "../assets/img/aula-2.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 101
+      }
+    },
+    {
+      "aula": "3",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 227,
+        "nS": 22,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 115,
+        "cenaSrc": "../assets/img/aula-3.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 68
+      }
+    },
+    {
+      "aula": "4",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 248,
+        "nS": 27,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 115,
+        "cenaSrc": "../assets/img/aula-4.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 86
+      }
+    },
+    {
+      "aula": "5",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 266,
+        "nS": 26,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 111,
+        "cenaSrc": "../assets/img/aula-5.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 84
+      }
+    },
+    {
+      "aula": "6",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 229,
+        "nS": 22,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 119,
+        "cenaSrc": "../assets/img/aula-6.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 63
+      }
+    },
+    {
+      "aula": "7",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 249,
+        "nS": 23,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 3,
+        "cena": true,
+        "cenaAlt": 123,
+        "cenaSrc": "../assets/img/aula-7.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 96
+      }
+    },
+    {
+      "aula": "8",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 239,
+        "nS": 24,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 130,
+        "cenaSrc": "../assets/img/aula-8.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 99
+      }
+    },
+    {
+      "aula": "9",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 217,
+        "nS": 20,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 124,
+        "cenaSrc": "../assets/img/aula-9.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 93
+      }
+    },
+    {
+      "aula": "10",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 229,
+        "nS": 24,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 117,
+        "cenaSrc": "../assets/img/aula-10.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 81
+      }
+    },
+    {
+      "aula": "11",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [
+          "ambiente del taller, elección de la pieza, detalle del esmalte, uso de la taza, conjunto sobre la mesa e imagen final con espacio para un mensaje."
+        ],
+        "words": 239,
+        "nS": 21,
+        "gt22": 1,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 128,
+        "cenaSrc": "../assets/img/aula-11.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 114
+      }
+    },
+    {
+      "aula": "12",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 209,
+        "nS": 20,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 131,
+        "cenaSrc": "../assets/img/aula-12.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 81
+      }
+    },
+    {
+      "aula": "13",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 215,
+        "nS": 21,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 110,
+        "cenaSrc": "../assets/img/aula-13.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 91
+      }
+    },
+    {
+      "aula": "14",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [
+          "Un objeto insertado parece pertenecer a la escena cuando la escala, la perspectiva, la luz y el contacto con la superficie son coherentes."
+        ],
+        "words": 218,
+        "nS": 20,
+        "gt22": 1,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 120,
+        "cenaSrc": "../assets/img/aula-14.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 74
+      }
+    },
+    {
+      "aula": "15",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [
+          "Mantener el texto y el logotipo en capas permite corregir la ortografía, el tamaño, la posición y el color sin regenerar la foto."
+        ],
+        "words": 231,
+        "nS": 20,
+        "gt22": 1,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 125,
+        "cenaSrc": "../assets/img/aula-15.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 78
+      }
+    },
+    {
+      "aula": "16",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 215,
+        "nS": 22,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 118,
+        "cenaSrc": "../assets/img/aula-16.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 95
+      }
+    },
+    {
+      "aula": "17",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [
+          "El escalado mejora la presentación de una imagen, pero no es el método ideal para corregir un asa equivocada o un objeto recortado."
+        ],
+        "words": 237,
+        "nS": 22,
+        "gt22": 1,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 126,
+        "cenaSrc": "../assets/img/aula-17.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 93
+      }
+    },
+    {
+      "aula": "18",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 230,
+        "nS": 22,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 121,
+        "cenaSrc": "../assets/img/aula-18.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 128
+      }
+    },
+    {
+      "aula": "19",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 229,
+        "nS": 22,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 123,
+        "cenaSrc": "../assets/img/aula-19.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 106
+      }
+    },
+    {
+      "aula": "20",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 230,
+        "nS": 24,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 122,
+        "cenaSrc": "../assets/img/aula-20.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 103
+      }
+    },
+    {
+      "aula": "21",
+      "nota": 10,
+      "aprovada": true,
+      "criterios": {
+        "1 cinco-segundos (proxy)": true,
+        "2 mostrar-nao-simbolizar": true,
+        "3 vitoria-rapida": true,
+        "4 primeira-tela-leve": true,
+        "5 aula-enxuta": true,
+        "6 texto-sem-armadilha": true,
+        "7 legivel-3-temas": true,
+        "8 zero-jargao-e-direita": true,
+        "9 momento-humano": true,
+        "10 espinha": true
+      },
+      "medidas": {
+        "espacial": [],
+        "quizInjusto": 0,
+        "longas": [],
+        "words": 222,
+        "nS": 19,
+        "gt22": 0,
+        "gt30": 0,
+        "steps": 3,
+        "stepsSemVisual": [],
+        "reais": 2,
+        "cena": true,
+        "cenaAlt": 123,
+        "cenaSrc": "../assets/img/aula-21.webp",
+        "promise": true,
+        "em1": true,
+        "practice": 1,
+        "psafe": true,
+        "calma": 1,
+        "cola": true,
+        "next": true,
+        "cardsN": 3,
+        "cardsPerg": true,
+        "tempo": 15,
+        "pmin": 10,
+        "jarg": [],
+        "jargDef": [],
+        "perfil": "",
+        "leg": {
+          "papel": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "escuro": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          },
+          "sepia": {
+            "small": [],
+            "contrast": [],
+            "mono": []
+          }
+        },
+        "cenaKB": 111
+      }
+    }
+  ],
+  "errosJS": []
+}
