@@ -58,3 +58,11 @@ node scripts/check_i18n_browser.cjs . /tmp/prompting-i18n-checks
 ```
 
 A montagem não chama modelos nem redes. Catálogos traduzidos estão em `i18n/`; mudanças no texto português exigem atualizar o catálogo e revisar as novas traduções. Os scripts de JS e navegador usam os pacotes locais Babel/Playwright indicados em seus arquivos. O motor original `assets/curso.js` é preservado; `assets/curso-i18n.js` é a versão gerada com proteção de importação por idioma.
+
+<!-- inema-backlink:v1 -->
+## Mais no INEMA.CLUB
+
+- [Ficha completa deste curso](https://www.inema.club/cursos/283-prompting-de-imagem-v6-2-pense-como-diretor-de-fotografia/)
+- [Guia: como aprender inteligência artificial](https://www.inema.club/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.inema.club/cursos/)
+<!-- /inema-backlink:v1 -->
