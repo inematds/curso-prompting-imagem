@@ -44,7 +44,7 @@ Detalhes em `context/validacao.md`.
 
 ## Edições EN/ES
 
-Tradução textual com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa.
+Os catálogos atuais em `i18n/` foram traduzidos com GPT-6 Luna pela assinatura Codex, sem API externa. Novas traduções e retraduções passam pelo tradutor central do INEMA (`inema-traduz`, variáveis `INEMA_TRADUCAO_*`, hoje Sonnet 5.5 pela assinatura).
 As 21 aulas, cartões, práticas, glossário e controles estão em cada idioma; imagens são compartilhadas.
 Progresso e anotações ficam separados por idioma. Exportações identificam a edição; uma edição rejeita o progresso da outra.
 Revisões em `context/revisao-i18n-*.md` são simuladas, não testes com alunos reais.
